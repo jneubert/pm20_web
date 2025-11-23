@@ -72,10 +72,14 @@
       "@id" : "dct:hasPart",
       "@container" : "@set"
     },
+    "isPartOf" : "dct:isPartOf",
     "roleName" : "schema:roleName",
     "url" : "schema:url",
     "name" : "schema:name",
-    "isPartOf" : "dct:isPartOf",
+    "keywords" : {
+      "@id" : "schema:keywords",
+      "@container" : "@set"
+    },
     "precedingCorporateBody" : {
       "@id" : "gndo:precedingCorporateBody",
       "@container" : "@set"
