@@ -257,10 +257,10 @@ function film_nav($film, $set, $collection): string
   [$prev_film, $next_film] = prev_next_film($film);
   $nav = '<div><br />';
   if (!empty($prev_film)) {
-    $nav .= "<a href=\"../$prev_film\">voriger Film</a> &#160;&#160;";
+    $nav .= "<a href=\"/film/$set/$collection/$prev_film\">voriger Film</a> &#160;&#160;";
   }
   if (!empty($next_film)) {
-    $nav .= "<a href=\"../$next_film\">nächster Film</a> &#160;&#160;";
+    $nav .= "<a href=\"/film/$set/$collection/$next_film\">nächster Film</a> &#160;&#160;";
   }
   $nav .= "<a href=\"/film/${set}_$collection.de.html\">zurück zum Filmverzeichnis</a></div>";
   return $nav;
