@@ -321,13 +321,6 @@ function film_nav($film, $set, $collection): string
       }
     }
   </style>
-  <script type="application/json" class="js-hypothesis-config">
-    {
-      "openSidebar": false
-    }
-  </script>
-
-  <script src="https://hypothes.is/embed.js" async></script>
 
   <script>
     function leftArrowPressed() {
