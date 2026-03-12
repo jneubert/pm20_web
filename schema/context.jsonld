@@ -10,6 +10,7 @@
     "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
     "schema" : "http://schema.org/",
     "skos" : "http://www.w3.org/2004/02/skos/core#",
+    "void" : "http://rdfs.org/ns/void#",
     "zbwext" : "http://zbw.eu/namespaces/zbw-extensions/",
 
     "Pm20Folder" : "zbwext:Pm20Folder",
@@ -197,6 +198,7 @@
     "adjustedLabel" : "zbwext:adjustedLabel",
     "adjustedAltLabel" : "zbwext:adjustedAltLabel",
     "wpLinkOrig" : "zbwext:wpLinkOrig",
+    "status" : "zbwext:status",
     "startDate" : "schema:startDate",
     "provenance" : "dct:provenance",
     "source" : "dct:source",
