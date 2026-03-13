@@ -280,6 +280,7 @@ function film_nav($film, $set, $collection): string
 
     html {
       font-size: 12px;
+      scroll-behavior: auto;
     }
 
     a:hover, a:visited, a:link, a:active {
@@ -315,11 +316,62 @@ function film_nav($film, $set, $collection): string
       position: absolute;
     }
 
+    #menu-column {
+      width: 24px;
+      float:left;
+    }
+
+    #main-column {
+      margin-left: 25px;
+    }
+
     @media print {
       .no-print, .no-print * {
         display: none !important;
       }
     }
+
+  /* overlay menu (https://codepen.io/alvsconcelos/pen/NJebyv)
+   */
+  #body-overlay {
+    width: 100vw;
+    height: 100vh;
+    display: none;
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+  .real-menu {
+    position: fixed;
+    top: 0;
+    left: -150px;
+    z-index: 4;
+    width: 150px;
+    padding: 0em 0.2em;
+    box-shadow: 0 6px 12px rgba(107, 82, 82, 0.3);
+    background-color: white;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    transition: ease 0.2s all;
+  }
+
+  body {
+    &.menu-open{
+      #body-overlay {
+        display: block;
+      }
+    }
+    &.menu-open {
+      .real-menu {
+        left: 0;
+      }
+    }
+  }
+
   </style>
 
   <script>
@@ -352,11 +404,68 @@ function film_nav($film, $set, $collection): string
     };
   </script>
 
+  <script>
+    // overlay menu (https://codepen.io/alvsconcelos/pen/NJebyv)
+
+    function hasClass(ele, cls) {
+      return !!ele.className.match(new RegExp('(\\s|^)' + cls + '(\\s|$)'));
+    }
+
+    function addClass(ele, cls) {
+      if (!hasClass(ele, cls)) ele.className += " " + cls;
+    }
+
+    function removeClass(ele, cls) {
+      if (hasClass(ele, cls)) {
+          var reg = new RegExp('(\\s|^)' + cls + '(\\s|$)');
+          ele.className = ele.className.replace(reg, ' ');
+      }
+    }
+
+    //Add event from js the keep the marup clean
+    function init() {
+      document.getElementById("open-menu").addEventListener("click", toggleMenu);
+      document.getElementById("body-overlay").addEventListener("click", toggleMenu);
+    }
+
+    //The actual fuction
+    function toggleMenu() {
+      var ele = document.getElementsByTagName('body')[0];
+      if (!hasClass(ele, "menu-open")) {
+        addClass(ele, "menu-open");
+      } else {
+        removeClass(ele, "menu-open");
+      }
+    }
+
+    //Prevent the function to run before the document is loaded
+    document.addEventListener('readystatechange', function() {
+      if (document.readyState === "complete") {
+        init();
+      }
+    });
+  </script>
+
   <link rel="canonical" href="<?= $canonical_link ?>"/>
   <meta name="dc.identifier" content="<?= $filmpath ?>/<?= $img ?>">
   <meta name="dc.relation.ispartof" content="pm20.zbw.eu">
 </head>
 <body>
+
+<div id="body-overlay"></div>
+<nav class="real-menu" role="navigation">
+  <ul>
+    <li><a href="#navigation" onclick="toggleMenu();">Navigation</a></li>
+    <li><a href="#usage" onclick="toggleMenu();">Bedienung</a></li>
+    <li><a href="#legal" onclick="toggleMenu();">Rechtliche Hinweise</a></li>
+  </ul>
+</nav>
+
+<div id="menu-column">
+  <button id="open-menu">&#9776;</button>
+</div>
+
+<div id="main-column">
 
 <div class="imgview-pos">
   <img id="img-id" class="imgview-full" src="<?= $cur_file ?>" alt="Image"/>
@@ -367,7 +476,9 @@ function film_nav($film, $set, $collection): string
                                       style="top: 0%; left: 75%; width: 25%; height: 100%;"></a><?php endif; ?>
 </div>
 
-<div class="no-print" style="margin-top: 1.5em;">
+</div>
+
+<div id="navigation" class="no-print" style="margin-top: 1.5em;">
 
   <img src="/images/zbw_pm20.de.jpg" alt="ZBW PM20 Logo" usemap="#logomap" width="500px">
 
@@ -387,8 +498,7 @@ function film_nav($film, $set, $collection): string
 
   <?php prev_next_film($film) ?>
 
-
-  <h2>Bedienung</h2>
+  <h2 id="usage">Bedienung</h2>
 
   <ul>
     <li><b>Vor-/Zurückblättern</b>: Pfeil rechts/links, oder Mausklick im rechten/linken Bildviertel (im
@@ -404,7 +514,9 @@ function film_nav($film, $set, $collection): string
     href="https://github.com/and-rej/rotate-and-zoom-image">für Firefox</a>)
     zum Zoomen und Rotieren der Bilder hilfreich sein</li> </ul>
 
+  <div id="legal">
   <?= $ip_hints ?>
+  </div>
 
 </div>
 
