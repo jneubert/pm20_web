@@ -10,14 +10,13 @@
  */
 
 
-// fixed texts
-
-$ip_hints = file_get_contents('/pm20/web/templates/fragments/ip_hints.de.html.frag');
-
 // get actual dir name
 $fs_root = dirname(getcwd());
 $web_root = '/film/';
 $fast_skip = 50;
+
+// fixed texts
+$ip_hints = file_get_contents("$fs_root/templates/fragments/ip_hints.de.html.frag");
 
 // parse query string
 parse_str($_SERVER['QUERY_STRING'], $query_parts);
@@ -511,7 +510,7 @@ function film_nav($film, $set, $collection): string
     <li><b>Vergrößern</b>: mit Mauszeiger (Lupen-Symbol) auf gewünschten Bereich klicken (im Einzelbild-Modus)</li>
     <li><b>Einzelbild-Modus verlassen</b>: Alt-Pfeil links</li>
     <li>Optional kann ein Browser-Plugin (z.B. <a
-    href="https://github.com/and-rej/rotate-and-zoom-image">für Firefox</a>)
+    href="https://github.com/and-rej/rotate-and-zoom-image">hier für Firefox</a>)
     zum Zoomen und Rotieren der Bilder hilfreich sein</li> </ul>
 
   <div id="legal">
