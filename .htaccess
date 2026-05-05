@@ -40,44 +40,47 @@ RedirectMatch 404 \.md$
 # \\pm-opac\C$\inetpub\wwwroot\CFapp\PrMappeConv\_Init_Application_Structures.cfm)
 
 # Hamburg reading room
-SetEnvIf Remote_Addr "^134\.245\.95\.130$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^134\.245\.95\.130$" PM20_INTERNAL=1
+
+
 # Kiel reading room
-SetEnvIf Remote_Addr "^134\.245\.95\.14$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^134\.245\.95\.14$" PM20_INTERNAL=1
 
 # Gateway for admin (nbt/ottk)
-SetEnvIf Remote_Addr "^134\.245\.95\.210$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^134\.245\.95\.210$" PM20_INTERNAL=1
+
 # Remote access (vpn) for admin
-SetEnvIf Remote_Addr "^134\.245\.94\.1$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^134\.245\.94\.1$" PM20_INTERNAL=1
 
 # HAN server
-SetEnvIf Remote_Addr "^134\.245\.92\.39$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^134\.245\.92\.39$" PM20_INTERNAL=1
 
 
 # Intares addresses
 
-SetEnvIf Remote_Addr "^213\.183\.200\.67$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2a00:4e00:2000:125::67$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^213\.183\.200\.69$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2a00:4e00:2000:125::69$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^213\.183\.200\.70$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2a00:4e00:2000:125::70$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^213\.183\.208\.66$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.183\.200\.67$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2a00:4e00:2000:125::67$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.183\.200\.69$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2a00:4e00:2000:125::69$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.183\.200\.70$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2a00:4e00:2000:125::70$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.183\.208\.66$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
 
 # Intares: Monitoring
-SetEnvIf Remote_Addr "^213\.183\.197\.137$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2a00:4e00:2000:44::137$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^213\.178\.160\.67$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2001:14b0:102:0:213:178:160:67$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^213\.183\.200\.66$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2a00:4e00:2000:125::66$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^213\.183\.208\.66$" PM20_INTERNAL=1
-SetEnvIf Remote_Addr "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.183\.197\.137$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2a00:4e00:2000:44::137$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.178\.160\.67$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2001:14b0:102:0:213:178:160:67$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.183\.200\.66$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2a00:4e00:2000:125::66$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^213\.183\.208\.66$" PM20_INTERNAL=1
+SetEnvIf X-Real-Ip "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
 
 
 # DFG-Viewer service (issues HEAD requests for images to check the CORS status)
 
-SetEnvIf Remote_Addr "^194\.95\.145\.4$" PM20_DFGVIEWER=1
+SetEnvIf X-Real-Ip "^194\.95\.145\.4$" PM20_DFGVIEWER=1
 
 ### Stop DFG Viewer GET ting .JPG files
 ### (proxy function has been mis-used in fall 2023 attack)
@@ -124,7 +127,7 @@ SetEnvIf GEOIP_COUNTRY_CODE LI PM20_EU=1
 SetEnvIf GEOIP_COUNTRY_CODE NO PM20_EU=1
 
 # allow EU test access from local network
-SetEnvIf Remote_Addr "^192.168." PM20_EU=1
+SetEnvIf X-Real-Ip "^192.168." PM20_EU=1
 
 
 #### Redirects
