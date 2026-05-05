@@ -43,6 +43,7 @@ if (!is_dir("$fs_root$filmpath")) {
 
 // get a list of all accessible files in the film directory
 if ( (getenv("PM20_INTERNAL") == 1)
+    or (getenv("PM20_FILMLINK_PORT"))  // indicates test environment
     or (($filming == 1) and (getenv("PM20_EU") == 1)) ) {
   // access to all files is free
   // assuming glob returns files in correct sequence
@@ -358,6 +359,25 @@ function film_nav($film, $set, $collection): string
     transition: ease 0.2s all;
   }
 
+  .real-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+  }
+  .real-menu li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+
+  /* Change the link and background color on hover */
+  .real-menu li a:hover {
+    background-color: #555555;
+    color: white;
+  }
+
   body {
     &.menu-open{
       #body-overlay {
@@ -457,6 +477,7 @@ function film_nav($film, $set, $collection): string
     <li><a href="#navigation" onclick="toggleMenu();">Navigation</a></li>
     <li><a href="#usage" onclick="toggleMenu();">Bedienung</a></li>
     <li><a href="#legal" onclick="toggleMenu();">Rechtliche Hinweise</a></li>
+    <li style="text-align: right"><a href="#" onclick="toggleMenu();">schließen &times;</a></li>
   </ul>
 </nav>
 
@@ -516,6 +537,8 @@ function film_nav($film, $set, $collection): string
   <div id="legal">
   <?= $ip_hints ?>
   </div>
+
+  <a href="#top">-> Top</a>
 
 </div>
 
