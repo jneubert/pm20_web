@@ -1,6 +1,6 @@
 ---
 title: "Folders by Subject Category System"
-modified: 2025-04-19
+modified: 2025-10-04
 backlink: ../about.en.html
 backlink-title: "Folders by Category system"
 fn-stub: about

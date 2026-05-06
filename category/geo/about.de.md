@@ -1,6 +1,6 @@
 ---
 title: "Mappen nach Ländersystematik"
-modified: 2025-04-19
+modified: 2025-10-04
 backlink: ../about.de.html
 backlink-title: "Mappen nach Systematik"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 # Mappen nach Ländersystematik
 
 
-Insgesamt 369 Systematikstellen, 9201 Sach-Mappen (bis 1949), 4425978 Aufnahmen zu Länder-Sach-Themen auf digitalisierten
+Insgesamt 369 Systematikstellen, 9201 Sach-Mappen (bis 1949), 4426058 Aufnahmen zu Länder-Sach-Themen auf digitalisierten
 Mikrofilmen sowie 2891 Waren-Mappen (bis
 1949).
 
@@ -225,7 +225,7 @@ ist online verfügbar.
 - [B85 Portugiesisch-Timor](i/141238/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='B85'></a>
 - [B86 Philippinen](i/141240/about.de.html) [(1 Sach-Mappen, 23 Waren-Mappen)]{.hint}<a name='B86'></a>
 - [B90 Siam](i/141242/about.de.html) [(1 Sach-Mappen, 11 Waren-Mappen)]{.hint}<a name='B90'></a>
-- [B91 Cochinchina](i/141243/about.de.html) [(0 Sach-Mappen, 16 Waren-Mappen)]{.hint}<a name='B91'></a>
+- [B91 Französisch-Indochina](i/141243/about.de.html) [(0 Sach-Mappen, 16 Waren-Mappen)]{.hint}<a name='B91'></a>
 - [B91a Vietnam](i/141247/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B91a'></a>
 - [B91b Kambodscha](i/141249/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B91b'></a>
 - [B91c Laos](i/141250/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B91c'></a>

@@ -1,6 +1,6 @@
 ---
 title: "Folders by Country Category System"
-modified: 2025-04-19
+modified: 2025-10-04
 backlink: ../about.en.html
 backlink-title: "Folders by Category system"
 fn-stub: about
@@ -12,7 +12,7 @@ fn-stub: about
 
 
 
-In total 369 categories, 9201 subject folders (until 1949), 4425978 images from digitized microfilms about
+In total 369 categories, 9201 subject folders (until 1949), 4426058 images from digitized microfilms about
 country-subject topics, and 2891 ware folders
 (until 1949).
 
@@ -224,7 +224,7 @@ is available online.
 - [B85 Portuguese Timor](i/141238/about.en.html) [(0 subject folders, 1 ware folders)]{.hint}<a name='B85'></a>
 - [B86 Philippines](i/141240/about.en.html) [(1 subject folders, 23 ware folders)]{.hint}<a name='B86'></a>
 - [B90 Siam](i/141242/about.en.html) [(1 subject folders, 11 ware folders)]{.hint}<a name='B90'></a>
-- [B91 Cochinchina](i/141243/about.en.html) [(0 subject folders, 16 ware folders)]{.hint}<a name='B91'></a>
+- [B91 French Indochina](i/141243/about.en.html) [(0 subject folders, 16 ware folders)]{.hint}<a name='B91'></a>
 - [B91a Viet Nam](i/141247/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B91a'></a>
 - [B91b Cambodia](i/141249/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B91b'></a>
 - [B91c Laos](i/141250/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B91c'></a>
