@@ -12,9 +12,9 @@ robots: noindex
 
 
 
-Insgesamt 10901 Mappen mit 370534 Dokumenten sowie 387591 Aufnahmen von digitalisierten Mikrofilmen.
+Insgesamt 10910 Mappen mit 370534 Dokumenten sowie 386379 Aufnahmen von digitalisierten Mikrofilmen.
 
-Für weitere 19487 Firmen/Institutionen gibt es den Bestandsangaben zufolge Aufnahmen auf unerschlossenen digitalisierten Mikrofilmen (1950-1960) und/oder auf Mikrofiches (1960-1980) ([separate Liste](maybe_docs.de.html)).
+Für weitere 19479 Firmen/Institutionen gibt es den Bestandsangaben zufolge Aufnahmen auf unerschlossenen digitalisierten Mikrofilmen (1950-1960) und/oder auf Mikrofiches (1960-1980) ([separate Liste](maybe_docs.de.html)).
 
 
 
@@ -668,7 +668,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Apollinaris &amp; Presta Ltd](0476xx/047664/about.de.html) (1897-) &#160; [62 Dokumente]{.hint}
 * [Apollo Mineralöl-Raffinerie AG (Preßburg)](0476xx/047665/about.de.html)  &#160; [78 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Appenzell-Ausserrhodische Kantonalbank](0012xx/001262/about.de.html) (1876-) &#160; [52 Dokumente]{.hint}
-* [Arab Bank plc (Amman)](0012xx/001286/about.de.html)  &#160; [3 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Arab Bank plc (Amman)](0012xx/001286/about.de.html)  &#160; [56 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Arado Flugzeugwerke GmbH](0415xx/041595/about.de.html) (1925-) &#160; [2 Dokumente]{.hint}
 * [Arbeiterbank AG](0476xx/047669/about.de.html) (1923-) &#160; [18 Dokumente + 3 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Arbeiter-Unfallversicherungsanstalt für Mähren und Schlesien](0727xx/072768/about.de.html) (1890-) &#160; [44 Dokumente]{.hint}
@@ -3534,8 +3534,10 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Economic Insurance Company Ltd.](0567xx/056760/about.de.html) (1902-) &#160; [19 Dokumente]{.hint}
 * [Ecrémeuses Mélotte](0489xx/048929/about.de.html) (1928-) &#160; [4 Dokumente]{.hint}
 * [Ecuadorian Corporation, Limited](0982xx/098262/about.de.html)  &#160; [11 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Edeka Verband Deutscher kaufmännischer Genossenschaften eV (Hamburg)](0567xx/056777/about.de.html)  &#160; [165 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Edelstahlwerke Buderus AG](0073xx/007370/about.de.html) (1920-) &#160; [78 Dokumente]{.hint}
 * [Edelstahlwerk Röchling AG](0443xx/044369/about.de.html) (1921-) &#160; [16 Dokumente]{.hint}
+* [Edelstein-Porzellanfabrik AG (Küps)](0567xx/056778/about.de.html)  &#160; [10 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eden Hotel AG](0423xx/042397/about.de.html) (1930-) &#160; [10 Dokumente]{.hint}
 * [Ederapolla Tea Company of Ceylon](0489xx/048932/about.de.html)  &#160; [12 Dokumente]{.hint}
 * [Edgar Allen Balfour](0567xx/056783/about.de.html) (1899-) &#160; [5 Dokumente]{.hint}
@@ -3565,7 +3567,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Egyptian Hotels](0938xx/093884/about.de.html) (1897-) &#160; [40 Dokumente]{.hint}
 * [Egyptian Salt and Soda Co. Ltd. (Alexandria)](0489xx/048945/about.de.html)  &#160; [39 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [E. Holtzmann &amp; Cie, Weisenbachfabrik](0419xx/041970/about.de.html) (1883-1997) &#160; [17 Dokumente]{.hint}
-* [Eichbaum-Brauereien AG](0074xx/007427/about.de.html) (1978 - 30.6.2000) &#160; [45 Dokumente]{.hint}
+* [Eichbaum-Brauereien AG](0074xx/007427/about.de.html) (1978 - 30.6.2000) &#160; [45 Dokumente + 71 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eidgenössische Bank AG](0568xx/056831/about.de.html)  &#160; [154 Dokumente]{.hint}
 * [Eidgenössische Versicherungs AG](0568xx/056832/about.de.html)  &#160; [49 Dokumente]{.hint}
 * [Eigenheim-Bund Niedersachsen e.GmbH](0424xx/042404/about.de.html)  &#160; [1 Dokumente]{.hint}
@@ -3573,7 +3575,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Eilenburger Kattun-Manufaktur AG](0458xx/045821/about.de.html) (1872-1937) &#160; [31 Dokumente]{.hint}
 * [Einbecker Brauhaus](0430xx/043013/about.de.html) (1890-) &#160; [45 Dokumente]{.hint}
 * [Einheitsfutter AG](0424xx/042405/about.de.html) (1930-) &#160; [3 Dokumente]{.hint}
-* [Einigkeit Konzern](0424xx/042406/about.de.html) (1926 Stilllegung sämtlicher Konzernwerke) &#160; [53 Dokumente]{.hint}
+* [Einigkeit Konzern](0424xx/042406/about.de.html) (1926 Stilllegung sämtlicher Konzernwerke) &#160; [53 Dokumente + 7 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Einkaufsverband Nordwest eGmbH](0424xx/042407/about.de.html) (1919-1945) &#160; [8 Dokumente]{.hint}
 * [Eisemann-Werke](0460xx/046052/about.de.html) (1897-1937) &#160; [10 Dokumente]{.hint}
 * [Eisenbahn-Bank](0424xx/042414/about.de.html) (1898-) &#160; [97 Dokumente]{.hint}
@@ -3581,26 +3583,29 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Eisenbahn-Gesellschaft Altona-Kaltenkirchen-Neumünster](0007xx/000723/about.de.html) (1882-) &#160; [48 Dokumente + 28 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eisenbahn-Gesellschaft Mühlhausen-Ebeleben](0424xx/042416/about.de.html) (1897-) &#160; [9 Dokumente]{.hint}
 * [Eisenbahn-Renten-Bank](0424xx/042417/about.de.html) (1887-) &#160; [90 Dokumente + 21 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
-* [Eisenbahn-Verkehrsmittel AG](0074xx/007449/about.de.html) (1899-2002) &#160; [126 Dokumente + 1261 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Eisenbahn-Verkehrsmittel AG](0074xx/007449/about.de.html) (1899-2002) &#160; [126 Dokumente + -2 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eisenbahn Wien-Aspang](0424xx/042412/about.de.html) (1881-) &#160; [26 Dokumente]{.hint}
-* [Eisenbau Wyhlen AG](0424xx/042419/about.de.html) (1897-) &#160; [4 Dokumente]{.hint}
+* [Eisenbau Wyhlen AG](0424xx/042419/about.de.html) (1897-) &#160; [4 Dokumente + 11 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eisen-Handels- und Industrie AG Greinitz](0447xx/044755/about.de.html) (1906-) &#160; [8 Dokumente]{.hint}
 * [Eisenhüttenwerk Thale AG](0424xx/042420/about.de.html) (1872-) &#160; [92 Dokumente]{.hint}
 * [Eisenindustrie AG](0442xx/044273/about.de.html) (1894-) &#160; [8 Dokumente]{.hint}
-* [Eisen- und Hüttenwerke AG](0074xx/007447/about.de.html) (1918-) &#160; [93 Dokumente]{.hint}
+* [Eisen- und Drahtwerk Erlau AG (Aalen)](0074xx/007446/about.de.html)  &#160; [14 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Eisen- und Hüttenwerke AG](0074xx/007447/about.de.html) (1918-) &#160; [93 Dokumente + 125 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eisen- und Stahl AG](0447xx/044758/about.de.html) (1921-) &#160; [8 Dokumente]{.hint}
 * [Eisen- und Stahl Rückversicherungs-AG](0072xx/007211/about.de.html) (1937-) &#160; [13 Dokumente]{.hint}
 * [Eisen- und Stahl Versicherungs-AG](0424xx/042409/about.de.html) (1923-1937) &#160; [2 Dokumente]{.hint}
 * [Eisenwerk Coswig AG](0424xx/042422/about.de.html) (1892-) &#160; [6 Dokumente]{.hint}
 * [Eisenwerke-AG Rothau-Neudek](0727xx/072788/about.de.html) (1909-) &#160; [7 Dokumente]{.hint}
+* [Eisenwerke Friedr. Wilh. Düker GmbH &amp; Co KG (Karlstadt)](0568xx/056863/about.de.html)  &#160; [15 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Eisenwerke Kaiserslautern](0074xx/007451/about.de.html) (1864-) &#160; [17 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eisenwerke Podbrezová AG](0442xx/044267/about.de.html) (1840-) &#160; [9 Dokumente]{.hint}
 * [Eisenwerke Wördern](0988xx/098844/about.de.html)  &#160; [12 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
-* [Eisenwerk-Gesellschaft Maximilianshütte](0424xx/042427/about.de.html) (1851-) &#160; [140 Dokumente + 1220 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Eisenwerk-Gesellschaft Maximilianshütte](0424xx/042427/about.de.html) (1851-) &#160; [140 Dokumente + 110 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eisenwerk Kraft AG](0458xx/045817/about.de.html) (1895-) &#160; [41 Dokumente]{.hint}
 * [Eisenwerk Nürnberg AG vorm. J. Tafel &amp; Co.](0424xx/042424/about.de.html) (1875-) &#160; [21 Dokumente]{.hint}
-* [Eisenwerk Weserhütte AG](0424xx/042425/about.de.html) (1869-1980) &#160; [78 Dokumente]{.hint}
+* [Eisenwerk Weserhütte AG](0424xx/042425/about.de.html) (1869-1980) &#160; [78 Dokumente + 62 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eisenwerk Wülfel AG](0424xx/042426/about.de.html) (1882-1977) &#160; [100 Dokumente]{.hint}
-* [Eiswerk und Kühlhaus Huxmann AG](0424xx/042428/about.de.html) (1915-) &#160; [23 Dokumente]{.hint}
+* [Eiswerk und Kühlhaus Huxmann AG](0424xx/042428/about.de.html) (1915-) &#160; [23 Dokumente + 39 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eitingon Schild Company New York (New York)](0490xx/049013/about.de.html)  &#160; [9 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [EKO Hypothekar- und Handelsbank](0568xx/056871/about.de.html)  &#160; [19 Dokumente]{.hint}
 * [El Al Israel Airlines (Israel)](0074xx/007466/about.de.html)  &#160; [12 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
@@ -3637,7 +3642,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Elektrische Licht- und Kraftanlagen AG](0424xx/042443/about.de.html) (1897-) &#160; [171 Dokumente]{.hint}
 * [Elektrische Straßenbahn Barmen-Elberfeld](0445xx/044540/about.de.html) (1873-1987) &#160; [16 Dokumente]{.hint}
 * [Elektrische Überland-Zentrale Oberhausen AG](0424xx/042444/about.de.html) (1907-) &#160; [11 Dokumente]{.hint}
-* [Elektrizitäts-Aktiengesellschaft Mitteldeutschland](0076xx/007620/about.de.html) (1929-) &#160; [40 Dokumente]{.hint}
+* [Elektrizitäts-Aktiengesellschaft Mitteldeutschland](0076xx/007620/about.de.html) (1929-) &#160; [40 Dokumente + 72 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Elektrizitäts-Aktiengesellschaft vorm. Schuckert &amp; Co](0455xx/045596/about.de.html) (1894-1903) &#160; [161 Dokumente]{.hint}
 * [Elektrizitäts-Gesellschaft Eupen und Umgebung AG](0445xx/044504/about.de.html) (1924-) &#160; [10 Dokumente]{.hint}
 * [Elektrizitäts-Lieferungs-Gesellschaft](0424xx/042447/about.de.html) (1896-) &#160; [176 Dokumente]{.hint}
@@ -3656,12 +3661,13 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Elektrizitätswerk und Straßenbahn Aktiengesellschaft Stralsund](0424xx/042458/about.de.html) (1900-) &#160; [10 Dokumente]{.hint}
 * [Elektrizitätswerk und Straßenbahn Tilsit AG](0424xx/042459/about.de.html)  &#160; [10 Dokumente]{.hint}
 * [Elektrizitätswerk Unterelbe](0424xx/042440/about.de.html) (1912-) &#160; [130 Dokumente]{.hint}
+* [Elektrizitätswerk Weißenhorn AG (Weißenhorn)](0569xx/056939/about.de.html)  &#160; [10 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Elektrizitätswerk Wels AG](0424xx/042461/about.de.html) (1901-) &#160; [9 Dokumente]{.hint}
 * [Elektrizitätswerk Westerwald Aktiengesellschaft](0424xx/042463/about.de.html) (1914-1956) &#160; [14 Dokumente]{.hint}
 * [Elektroanlagen AG](0569xx/056943/about.de.html)  &#160; [36 Dokumente]{.hint}
 * [Elektro-Bau AG](0075xx/007510/about.de.html) (1920-) &#160; [12 Dokumente]{.hint}
 * [Elektrochemische Werke München AG](0424xx/042464/about.de.html) (1911-) &#160; [31 Dokumente]{.hint}
-* [Elektrolux AG](0424xx/042465/about.de.html) (1928-) &#160; [28 Dokumente]{.hint}
+* [Elektrolux AG](0424xx/042465/about.de.html) (1928-) &#160; [28 Dokumente + 17 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Elektromark, Kommunales Elektrizitätswerk Mark AG](0075xx/007511/about.de.html) (1906-) &#160; [84 Dokumente]{.hint}
 * [Elektroschmelzwerk Kempten AG](0424xx/042466/about.de.html) (1922-) &#160; [4 Dokumente]{.hint}
 * [Elektrotechna Aktiengesellschaft für Schwachstromtechnik](0727xx/072791/about.de.html) (1930-) &#160; [20 Dokumente]{.hint}
@@ -3673,7 +3679,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Elka-Werke AG](0424xx/042477/about.de.html) (1924-) &#160; [4 Dokumente]{.hint}
 * [Ellerman Lines plc](0569xx/056967/about.de.html) (1900-) &#160; [46 Dokumente]{.hint}
 * [Elmore's Metall-AG Kupferrohrwerk](0424xx/042469/about.de.html) (1891-) &#160; [13 Dokumente]{.hint}
-* [Elmshorn-Barmstedt-Oldesloer Eisenbahn AG](0075xx/007545/about.de.html) (1896-1981) &#160; [39 Dokumente]{.hint}
+* [Elmshorn-Barmstedt-Oldesloer Eisenbahn AG](0075xx/007545/about.de.html) (1896-1981) &#160; [39 Dokumente + 41 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Elmshurst (Ceylon) Tea and Rubber Estates London](0491xx/049187/about.de.html)  &#160; [10 Dokumente]{.hint}
 * [Elsässisch-Badische Wollfabriken AG](0424xx/042472/about.de.html) (1899-1969) &#160; [62 Dokumente]{.hint}
 * [Elsässische Bodenkreditbank AG](0452xx/045216/about.de.html) (1872-) &#160; [8 Dokumente]{.hint}
@@ -3681,12 +3687,12 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Elsässische Tief- und Hochbau AG](0424xx/042474/about.de.html)  &#160; [8 Dokumente]{.hint}
 * [Elsenthal Holzstoff- und Papierfabrik AG](0457xx/045796/about.de.html) (1890-1933) &#160; [10 Dokumente]{.hint}
 * [Elsflether Werft AG](0075xx/007559/about.de.html) (1916-) &#160; [41 Dokumente]{.hint}
-* [Elster AG](0075xx/007560/about.de.html) (1848-) &#160; [11 Dokumente]{.hint}
+* [Elster AG](0075xx/007560/about.de.html) (1848-) &#160; [11 Dokumente + 12 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Elwerath Erdgas und Erdöl GmbH](0427xx/042749/about.de.html)  &#160; [8 Dokumente]{.hint}
 * [EMAG Elektrizitäts-AG](0459xx/045989/about.de.html) (1911-) &#160; [34 Dokumente]{.hint}
 * [Emaillierwerk AG](0424xx/042478/about.de.html) (1866-) &#160; [16 Dokumente]{.hint}
 * [Emder Dampferkompagnie GmbH (Emden)](0491xx/049190/about.de.html)  &#160; [11 Dokumente]{.hint}
-* [Emder Heringsfischerei AG](0424xx/042479/about.de.html) (1872-1975) &#160; [27 Dokumente]{.hint}
+* [Emder Heringsfischerei AG](0424xx/042479/about.de.html) (1872-1975) &#160; [27 Dokumente + 16 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Emder Verkehrsgesellschaft A.-G.](0424xx/042480/about.de.html) (1913-) &#160; [20 Dokumente]{.hint}
 * [Emerald Rubber and Coconut Company](0491xx/049191/about.de.html) (1912-) &#160; [18 Dokumente]{.hint}
 * [EMI Group](0075xx/007573/about.de.html) (1931-) &#160; [67 Dokumente]{.hint}
@@ -3764,6 +3770,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Equitable Life Assurance Society](0077xx/007714/about.de.html) (1762-) &#160; [58 Dokumente]{.hint}
 * [Equitable Life Assurance Society of the United States](0571xx/057113/about.de.html)  &#160; [17 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Equitable Trust Company of New York](0985xx/098502/about.de.html)  &#160; [22 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Erbacher Tuchfabrik AG](0988xx/098861/about.de.html)  &#160; [16 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Ercole Marelli &amp; SpA (Mailand)](0157xx/015700/about.de.html)  &#160; [84 / 23 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erdélyi Ipari Munkaszervezö Intézet (Budapest)](0493xx/049389/about.de.html)  &#160; [6 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erdmannsdorfer AG Flachsgarn-Maschinen-Spinn und Weberei](0425xx/042501/about.de.html) (20.09.1872-) &#160; [93 Dokumente]{.hint}
@@ -3783,7 +3790,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Erste Aktienbrauerei in Eger](0425xx/042508/about.de.html) (1873-) &#160; [7 Dokumente]{.hint}
 * [Erste Allgemeine Unfall- und Schadens-Versicherungs-Gesellschaft](0425xx/042509/about.de.html) (1882-) &#160; [15 Dokumente + 14 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erste Bank der Österreichischen Sparkassen AG](0077xx/007770/about.de.html) (Mitte 1997 - 30.3.2003) &#160; [6 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
-* [Erste Bayerische Basaltstein-Aktien-Gesellschaft](0077xx/007772/about.de.html) (1880-2003) &#160; [4 Dokumente]{.hint}
+* [Erste Bayerische Basaltstein-Aktien-Gesellschaft](0077xx/007772/about.de.html) (1880-2003) &#160; [4 Dokumente + 12 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erste Békéscsabaer, Miscolcer und Debrecener István Dampfmühlen Actiengesellschaft (Miskolc)](0493xx/049395/about.de.html)  &#160; [74 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erste Böhmische Glasindustrie](0457xx/045769/about.de.html) (1891-1940) &#160; [12 Dokumente]{.hint}
 * [Erste Böhmische Kunstseidefabrik AG](0727xx/072792/about.de.html) (1922-) &#160; [17 Dokumente]{.hint}
@@ -3800,7 +3807,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Erste Grazer Actien-Brauerei vorm. Franz Schreiner &amp; Söhne](0447xx/044752/about.de.html) (1887-1944) &#160; [26 Dokumente]{.hint}
 * [Erste Kroatische Sparkassa (Zagreb)](0494xx/049400/about.de.html)  &#160; [257 / 2 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erste kroatisch-slavonische Zuckerindustrie Actien-Gesellschaft (Osijek Donji grad)](0493xx/049399/about.de.html)  &#160; [98 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
-* [Erste Kulmbacher Actien-Exportbier-Brauerei](0425xx/042516/about.de.html) (1872-) &#160; [50 Dokumente]{.hint}
+* [Erste Kulmbacher Actien-Exportbier-Brauerei](0425xx/042516/about.de.html) (1872-) &#160; [50 Dokumente + 84 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erste Mährische Sparcassa in Brünn](0727xx/072793/about.de.html) (1852-) &#160; [44 Dokumente]{.hint}
 * [Erste n.oe. Brandschaden-Versicherungsaktiengesellschaft](0988xx/098845/about.de.html)  &#160; [5 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Erste Seidenstückfärberei und Appretur AG, vorm. Artur Meister](0425xx/042518/about.de.html)  &#160; [6 Dokumente]{.hint}
@@ -3812,7 +3819,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Escher-Wyss-AG](0737xx/073768/about.de.html)  &#160; [37 Dokumente]{.hint}
 * [Eschweiler Bergwerks-Verein](0425xx/042524/about.de.html) (1834-) &#160; [246 Dokumente]{.hint}
 * [Esperanza Copper and Sulphur Co. Ltd.](0572xx/057203/about.de.html) (1906-) &#160; [17 Dokumente]{.hint}
-* [Esplanade Hotel AG](0425xx/042526/about.de.html) (1907-) &#160; [8 Dokumente]{.hint}
+* [Esplanade Hotel AG](0425xx/042526/about.de.html) (1907-) &#160; [8 Dokumente + 11 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Essener Bergwerksverein König Wilhelm](0460xx/046015/about.de.html) (1872-1936) &#160; [81 Dokumente]{.hint}
 * [Essener Steinkohlenbergwerke AG](0425xx/042528/about.de.html) (1906-1955) &#160; [165 Dokumente]{.hint}
 * [Esso AG](0078xx/007829/about.de.html) (1950 - 1999,Okt.) &#160; [229 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
@@ -3823,6 +3830,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Estrada de Ferro Central do Brazil (Rio de Janeiro)](0494xx/049465/about.de.html)  &#160; [80 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Estrada de Ferro San Paulo - Rio Grande (Rio de Janeiro)](0494xx/049466/about.de.html)  &#160; [28 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Etablissements Decauville aîné](0674xx/067443/about.de.html) (1894-) &#160; [29 Dokumente]{.hint}
+* [Eterna Mode GmbH (Passau)](0078xx/007840/about.de.html)  &#160; [9 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eternit SpA (Genua)](0572xx/057268/about.de.html)  &#160; [18 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Ethnikē Ktēmatikē Trapeza tēs Hellados (Athen)](0572xx/057271/about.de.html)  &#160; [86 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Eti-Bank (Ankara)](0572xx/057272/about.de.html)  &#160; [12 / 2 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
@@ -3856,8 +3864,8 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Export- und Lagerhaus-Gesellschaft](0425xx/042539/about.de.html) (1888-) &#160; [14 Dokumente]{.hint}
 * [Export-Verein in Sachsen](0425xx/042540/about.de.html) (1885-) &#160; [15 Dokumente]{.hint}
 * [Express Dairy Ltd](0085xx/008510/about.de.html) (1879-) &#160; [10 Dokumente]{.hint}
-* [Expresswerke AG](0425xx/042541/about.de.html) (1897-1959) &#160; [33 Dokumente]{.hint}
-* [Extertalbahn AG](0425xx/042521/about.de.html) (1924-1967) &#160; [7 Dokumente]{.hint}
+* [Expresswerke AG](0425xx/042541/about.de.html) (1897-1959) &#160; [33 Dokumente + 73 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
+* [Extertalbahn AG](0425xx/042521/about.de.html) (1924-1967) &#160; [7 Dokumente + 13 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 
 <div class="hint"><a href="#top">nach oben</a></div>
 <div class="spacer">&#160;</div>
@@ -5406,7 +5414,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [J. Banning AG](0605xx/060521/about.de.html) (1857-1990) &#160; [20 Dokumente + 21 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [J. Bautz AG Erntemaschinenwerke](0431xx/043114/about.de.html) (1890-) &#160; [3 Dokumente + 1256 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [J. Brünning &amp; Sohn AG](0431xx/043115/about.de.html) (1898-) &#160; [70 Dokumente]{.hint}
-* [J. C. Eckardt AG](0430xx/043067/about.de.html) (1873-) &#160; [7 Dokumente]{.hint}
+* [J. C. Eckardt AG](0430xx/043067/about.de.html) (1873-) &#160; [7 Dokumente + 13 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [J. Eichenberg AG für Wäschefabrikation](0431xx/043116/about.de.html) (1869-1942) &#160; [15 Dokumente]{.hint}
 * [J. Elsbach &amp; Co. AG](0431xx/043117/about.de.html) (1873-1993) &#160; [39 Dokumente]{.hint}
 * [Jenaer Elektrizitätswerke](0431xx/043134/about.de.html) (1901-) &#160; [38 Dokumente]{.hint}
@@ -5954,7 +5962,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Lake View and Star Ltd](0618xx/061824/about.de.html) (1910-) &#160; [115 Dokumente]{.hint}
 * [L'Alfa Société Anonyme pour la Fabrication des Pâtes de Cellulose](0470xx/047071/about.de.html) (1922-1961) &#160; [2 Dokumente]{.hint}
 * [L'Aliment Essentiel SA](0617xx/061742/about.de.html) (1906-) &#160; [3 Dokumente]{.hint}
-* [L' Allobroge Union d'Alimentation du Sud-Est SA](0617xx/061743/about.de.html) (1860-) &#160; [1 Dokumente]{.hint}
+* [L'Allobroge](0617xx/061743/about.de.html) (1860-) &#160; [1 Dokumente]{.hint}
 * [La Magona d'Italia (Piombino)](0617xx/061782/about.de.html)  &#160; [8 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Lambacher Hitiag Leinen AG (Stadl-Paura)](0147xx/014753/about.de.html)  &#160; [7 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Lambak Rubber Ltd.](0653xx/065334/about.de.html) (1923-) &#160; [25 Dokumente]{.hint}
@@ -8280,6 +8288,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Salzburger Landes-Hypothekenbank AG (Salzburg)](0195xx/019572/about.de.html)  &#160; [5 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Salzburgische Bergwerks- und Hütten AG](0447xx/044789/about.de.html)  &#160; [8 Dokumente]{.hint}
 * [Salzdetfurth AG](0451xx/045178/about.de.html) (1899-1970) &#160; [328 Dokumente]{.hint}
+* [Salzgitter Erzbergbau GmbH (Salzgitter)](0666xx/066617/about.de.html)  &#160; [24 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Salzgitter GmbH (Salzgitter)](0195xx/019576/about.de.html)  &#160; [88 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Salzmann &amp; Comp.](0451xx/045107/about.de.html) (1876-1971) &#160; [27 Dokumente]{.hint}
 * [Samarang-Joana Stoomtram-Maatschappij](0483xx/048322/about.de.html) (1881-1972) &#160; [55 Dokumente]{.hint}
@@ -9608,7 +9617,7 @@ _Metadaten für weitere Mappen (ohne bekannte digitalisierte Dokumente oder Mikr
 * [Süddeutsche Chemiefaser AG](0455xx/045581/about.de.html) (1935-) &#160; [46 Dokumente]{.hint}
 * [Süddeutsche Donau-Dampfschiffahrts-Gesellschaft](0436xx/043608/about.de.html) (1882-1938) &#160; [22 Dokumente]{.hint}
 * [Süddeutsche Edel- und Unedelmetall-Berufsgenossenschaft](0440xx/044071/about.de.html) (1885-) &#160; [15 Dokumente]{.hint}
-* [Süddeutsche Eisenbahn-Gesellschaft AG](0078xx/007823/about.de.html) (1895-) &#160; [91 Dokumente]{.hint}
+* [Süddeutsche Eisenbahn-Gesellschaft AG](0078xx/007823/about.de.html) (1895-) &#160; [91 Dokumente + 149 Aufnahmen auf digitalisiertem Mikrofilm]{.hint}
 * [Süddeutsche Festwertbank AG](0460xx/046055/about.de.html) (1923-) &#160; [31 Dokumente]{.hint}
 * [Süddeutsche Holzverzuckerungswerke AG](0456xx/045601/about.de.html) (1937-) &#160; [21 Dokumente]{.hint}
 * [Süddeutsche Holzwirtschaftsbank AG](0456xx/045614/about.de.html) (1924-) &#160; [49 Dokumente]{.hint}

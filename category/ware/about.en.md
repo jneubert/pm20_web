@@ -1,6 +1,6 @@
 ---
 title: "Folders by Commodity/ware Category System"
-modified: 2025-10-04
+modified: 2026-04-27
 backlink: ../about.en.html
 backlink-title: "Folders by Category system"
 fn-stub: about
@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-In total 1400 categories, 2891 folders (until 1949) and 857342 images on digitized microfilm.
+In total 1402 categories, 2891 folders (until 1949) and 857365 images on digitized microfilm.
 
 The Commodities/Wares archive was organized primarily by type of ware,
 seconadarily by country (or "World" for general aspects). Larger folders were
@@ -79,11 +79,11 @@ available online.
 
 
 
-### 3 <a name='id_3'></a>
+#### 3 <a name='id_3'></a>
 
 - [3D film](i/142332/about.en.html) [(22 images on digitized microfilm)]{.hint}<a name='PID12-Fo01'></a>
 
-### A <a name='id_A'></a>
+#### A <a name='id_A'></a>
 
 - [Abomasum](i/143158/about.en.html) [(18 images on digitized microfilm)]{.hint}<a name='PLW05-Tp06'></a>
 - [Absinth](i/141943/about.en.html) [(13  ware folders - complete unti 1949)]{.hint}<a name='PID20.03-Sp01'></a>
@@ -166,7 +166,7 @@ available online.
 - [Avocate pear](i/142021/about.en.html) [(14  ware folders - complete unti 1949 + 9 images on digitized microfilm)]{.hint}<a name='PLW04-Ob02'></a>
 - [Axe, hatchet, hammer](i/141947/about.en.html) [(13  ware folders - complete unti 1949)]{.hint}<a name='PID07.03-Wz01'></a>
 
-### B <a name='id_B'></a>
+#### B <a name='id_B'></a>
 
 - [Babassu nut](i/142023/about.en.html) [(6  ware folders - complete unti 1949 + 14 images on digitized microfilm)]{.hint}<a name='PLW04-Nu01'></a>
 - [Baby carriage](i/231738/about.en.html) [(15 images on digitized microfilm)]{.hint}<a name='PID09.05'></a>
@@ -257,7 +257,7 @@ available online.
 - [Butyl alcohol](i/231240/about.en.html) [(6 images on digitized microfilm)]{.hint}<a name='PID13-Ko11'></a>
 - [Butyric acid](i/232728/about.en.html) [(2 images on digitized microfilm)]{.hint}<a name='PID13-Sc13'></a>
 
-### C <a name='id_C'></a>
+#### C <a name='id_C'></a>
 
 - [Cabbage](i/143119/about.en.html) [(25  ware folders + 111 images on digitized microfilm)]{.hint}<a name='PLW04-Gm08'></a>
 - [Cable and wire](i/143005/about.en.html) [(950 images on digitized microfilm)]{.hint}<a name='PID10-Kd'></a>
@@ -357,7 +357,7 @@ available online.
 - [Clothing industry, branches and accessories](i/166456/about.en.html) [(26  ware folders - complete unti 1949 + 1 images on digitized microfilm)]{.hint}<a name='PID19-Bz'></a>
 - [Clove](i/143607/about.en.html) [(189 images on digitized microfilm)]{.hint}<a name='PLW04-Zp03'></a>
 - [Clover](i/143109/about.en.html) [(152 images on digitized microfilm)]{.hint}<a name='PLW04-Hu08'></a>
-- [Coal](i/143120/about.en.html) [(159  ware folders - complete unti 1949 + 13782 images on digitized microfilm)]{.hint}<a name='PRB02.01'></a>
+- [Coal](i/143120/about.en.html) [(159  ware folders - complete unti 1949 + 13780 images on digitized microfilm)]{.hint}<a name='PRB02.01'></a>
 - [Coal dust](i/218756/about.en.html) [(10  ware folders - complete unti 1949)]{.hint}<a name='PRB02.01-St'></a>
 - [Coal liquefaction](i/143988/about.en.html) [(1383 images on digitized microfilm)]{.hint}<a name='PID13.02-Ks04'></a>
 - [Coal machines (mining and processing)](i/143121/about.en.html) [(19  ware folders - complete unti 1949)]{.hint}<a name='PID08-Bg02'></a>
@@ -444,7 +444,7 @@ available online.
 - [Cutting machine](i/143849/about.en.html) [(126 images on digitized microfilm)]{.hint}<a name='PID08-Wz06'></a>
 - [Cyan](i/142239/about.en.html) [(84 images on digitized microfilm)]{.hint}<a name='PID13-Sa02'></a>
 
-### D <a name='id_D'></a>
+#### D <a name='id_D'></a>
 
 - [Dairy machine](i/143560/about.en.html) [(299 images on digitized microfilm)]{.hint}<a name='PID08-Nm04'></a>
 - [Dairy product](i/143559/about.en.html) [(3846 images on digitized microfilm)]{.hint}<a name='PID20-Mp'></a>
@@ -475,7 +475,7 @@ available online.
 - [Dryer](i/143990/about.en.html) [(241 images on digitized microfilm)]{.hint}<a name='PID08-Ap13'></a>
 - [Dynamite](i/142263/about.en.html) [(24 images on digitized microfilm)]{.hint}<a name='PID13-Zw01'></a>
 
-### E <a name='id_E'></a>
+#### E <a name='id_E'></a>
 
 - [Earthenware](i/143908/about.en.html) [(108 images on digitized microfilm)]{.hint}<a name='PID23-Ke02'></a>
 - [Ebony](i/142264/about.en.html) [(18 images on digitized microfilm)]{.hint}<a name='PLW06-Hz06'></a>
@@ -490,7 +490,7 @@ available online.
 - [Electrical tape](i/232208/about.en.html) [(9 images on digitized microfilm)]{.hint}<a name='PID22-Bs10'></a>
 - [Electric blanket](i/232267/about.en.html) [(5 images on digitized microfilm)]{.hint}<a name='PID10-Eh04'></a>
 - [Electric fence](i/231733/about.en.html) [(14 images on digitized microfilm)]{.hint}<a name='PID10-08'></a>
-- [Electric insulater](i/142989/about.en.html) [(528 images on digitized microfilm)]{.hint}<a name='PID10-03'></a>
+- [Electric insulater](i/142989/about.en.html) [(365 images on digitized microfilm)]{.hint}<a name='PID10-03'></a>
 - [Electricity meter](i/142280/about.en.html) [(141 images on digitized microfilm)]{.hint}<a name='PID10-Mt02'></a>
 - [Electric measuring device, electric testing apparatus](i/231712/about.en.html) [(92 images on digitized microfilm)]{.hint}<a name='PID10-Mt13'></a>
 - [Electric motor](i/143588/about.en.html) [(523 images on digitized microfilm)]{.hint}<a name='PID10-Mo'></a>
@@ -519,7 +519,7 @@ available online.
 - [Excavator](i/142028/about.en.html) [(23  ware folders - complete unti 1949 + 208 images on digitized microfilm)]{.hint}<a name='PID09.02-Nf01'></a>
 - [Explosive agent](i/143900/about.en.html) [(777 images on digitized microfilm)]{.hint}<a name='PID13-Zw04'></a>
 
-### F <a name='id_F'></a>
+#### F <a name='id_F'></a>
 
 - [Fake fur](i/231322/about.en.html) [(29 images on digitized microfilm)]{.hint}<a name='PID19-Ku06'></a>
 - [Fan, air freshener, air conditioning](i/143999/about.en.html) [(457 images on digitized microfilm)]{.hint}<a name='PID08-Kl01'></a>
@@ -599,7 +599,7 @@ available online.
 - [Furniture](i/143579/about.en.html) [(1590 images on digitized microfilm)]{.hint}<a name='PID04-Mo'></a>
 - [Furniture fabric](i/232908/about.en.html) [(34 images on digitized microfilm)]{.hint}<a name='PID19-Ma08'></a>
 
-### G <a name='id_G'></a>
+#### G <a name='id_G'></a>
 
 - [Galalith](i/142691/about.en.html) [(28 images on digitized microfilm)]{.hint}<a name='PID14-Ha02'></a>
 - [Gall apple](i/142693/about.en.html) [(19 images on digitized microfilm)]{.hint}<a name='PID04-Dr02'></a>
@@ -643,9 +643,9 @@ available online.
 - [Glycol](i/231655/about.en.html) [(15 images on digitized microfilm)]{.hint}<a name='PID13-Ko07'></a>
 - [Goat](i/144065/about.en.html) [(125 images on digitized microfilm)]{.hint}<a name='PLW05-26'></a>
 - [Goatskin](i/232266/about.en.html) [(5 images on digitized microfilm)]{.hint}<a name='PLW05-Hf12'></a>
-- [Gold](i/142877/about.en.html) [(8580 images on digitized microfilm)]{.hint}<a name='PID07.01-Em01'></a>
+- [Gold](i/142877/about.en.html) [(8586 images on digitized microfilm)]{.hint}<a name='PID07.01-Em01'></a>
 - [Goose, duck](i/142756/about.en.html) [(102 images on digitized microfilm)]{.hint}<a name='PLW05-Gf01'></a>
-- [Grain](i/142846/about.en.html) [(17270 images on digitized microfilm)]{.hint}<a name='PLW04-Gt'></a>
+- [Grain](i/142846/about.en.html) [(17274 images on digitized microfilm)]{.hint}<a name='PLW04-Gt'></a>
 - [Gramophone, record](i/142878/about.en.html) [(539 images on digitized microfilm)]{.hint}<a name='PID11-Au'></a>
 - [Granite](i/142884/about.en.html) [(120 images on digitized microfilm)]{.hint}<a name='PID23-Na03'></a>
 - [Grape](i/144033/about.en.html) [(1163 images on digitized microfilm)]{.hint}<a name='PLW04-Ob15'></a>
@@ -662,7 +662,7 @@ available online.
 - [Gutta percha](i/142900/about.en.html) [(239 images on digitized microfilm)]{.hint}<a name='PLW06-Fp09'></a>
 - [Gypsum](i/142854/about.en.html) [(226 images on digitized microfilm)]{.hint}<a name='PID23-Gi'></a>
 
-### H <a name='id_H'></a>
+#### H <a name='id_H'></a>
 
 - [Haddock](i/233185/about.en.html) [(9 images on digitized microfilm)]{.hint}<a name='PLW07-Mt26'></a>
 - [Hafnium](i/142917/about.en.html) [(20 images on digitized microfilm)]{.hint}<a name='PID07.01-04'></a>
@@ -716,7 +716,7 @@ available online.
 - [Hydrogen cyanide](i/232727/about.en.html) [(6 images on digitized microfilm)]{.hint}<a name='PID13-Sc12'></a>
 - [Hydrogen peroxide](i/144026/about.en.html) [(46 images on digitized microfilm)]{.hint}<a name='PID13-Dr03'></a>
 
-### I <a name='id_I'></a>
+#### I <a name='id_I'></a>
 
 - [Ice cream](i/232441/about.en.html) [(91 images on digitized microfilm)]{.hint}<a name='PID20-Mp07'></a>
 - [Ice skate](i/232960/about.en.html) [(4 images on digitized microfilm)]{.hint}<a name='PID04-Sp06'></a>
@@ -733,7 +733,7 @@ available online.
 - [Instant coffee](i/232280/about.en.html) [(46 images on digitized microfilm)]{.hint}<a name='PID20-Kf02'></a>
 - [Instant pudding mix](i/232190/about.en.html) [(5 images on digitized microfilm)]{.hint}<a name='PID20-08'></a>
 - [Instant tea](i/233023/about.en.html) [(2 images on digitized microfilm)]{.hint}<a name='PID20-Te01'></a>
-- [Insulating material, insulator (non-electric)](i/142990/about.en.html) [(100 images on digitized microfilm)]{.hint}<a name='PID22-Bs02'></a>
+- [Insulating material, insulator (non-electric)](i/142990/about.en.html) [(263 images on digitized microfilm)]{.hint}<a name='PID22-Bs02'></a>
 - [Insulin](i/142988/about.en.html) [(161 images on digitized microfilm)]{.hint}<a name='PID13.01-Bi03'></a>
 - [Internal combustion engine](i/143587/about.en.html) [(2374 images on digitized microfilm)]{.hint}<a name='PID08-Mo'></a>
 - [Intestine](i/142241/about.en.html) [(188 images on digitized microfilm)]{.hint}<a name='PLW05-Fl02'></a>
@@ -750,13 +750,13 @@ available online.
 - [Ivory](i/142285/about.en.html) [(192 images on digitized microfilm)]{.hint}<a name='PLW05-02'></a>
 - [Ixtle](i/142994/about.en.html) [(82 images on digitized microfilm)]{.hint}<a name='PID19-Nf10'></a>
 
-### J <a name='id_J'></a>
+#### J <a name='id_J'></a>
 
 - [Jerusalem artichoke](i/232132/about.en.html) [(17 images on digitized microfilm)]{.hint}<a name='PLW04-Gm22'></a>
 - [Jukebox](i/232701/about.en.html) [(17 images on digitized microfilm)]{.hint}<a name='PID11-Eb07'></a>
 - [Jute](i/143004/about.en.html) [(2663 images on digitized microfilm)]{.hint}<a name='PID19-Ju'></a>
 
-### K <a name='id_K'></a>
+#### K <a name='id_K'></a>
 
 - [Kali](i/143051/about.en.html) [(3970 images on digitized microfilm)]{.hint}<a name='PRB02.08-01'></a>
 - [Kangaroo leather](i/232261/about.en.html) [(4 images on digitized microfilm)]{.hint}<a name='PLW05-Hf09'></a>
@@ -770,7 +770,7 @@ available online.
 - [Kola](i/143127/about.en.html) [(164 images on digitized microfilm)]{.hint}<a name='PLW06-Fp15'></a>
 - [Krpton](i/232123/about.en.html) [(1 images on digitized microfilm)]{.hint}<a name='PID13-Ae19'></a>
 
-### L <a name='id_L'></a>
+#### L <a name='id_L'></a>
 
 - [Lace, embroidery](i/143899/about.en.html) [(908 images on digitized microfilm)]{.hint}<a name='PID19-Ma02'></a>
 - [Lacquerware](i/143161/about.en.html) [(12 images on digitized microfilm)]{.hint}<a name='PID04-Kg01'></a>
@@ -829,7 +829,7 @@ available online.
 - [Lupine](i/143520/about.en.html) [(74 images on digitized microfilm)]{.hint}<a name='PLW04-Hu10'></a>
 - [Luxury good](i/143522/about.en.html) [(61 images on digitized microfilm)]{.hint}<a name='PID04-03'></a>
 
-### M <a name='id_M'></a>
+#### M <a name='id_M'></a>
 
 - [Machine gun](i/143546/about.en.html) [(84 images on digitized microfilm)]{.hint}<a name='PID06-06'></a>
 - [Machine, machine element](i/148501/about.en.html) [(7577 images on digitized microfilm)]{.hint}<a name='PID08'></a>
@@ -864,7 +864,7 @@ available online.
 - [Mauritius hemp](i/143555/about.en.html) [(24 images on digitized microfilm)]{.hint}<a name='PID19-Nf20'></a>
 - [Measuring and testing apparatus](i/143565/about.en.html) [(739 images on digitized microfilm)]{.hint}<a name='PID10-Mt'></a>
 - [Measuring and testing apparatus for liquids](i/143566/about.en.html) [(100 images on digitized microfilm)]{.hint}<a name='PID10-Mt08'></a>
-- [Meat](i/142470/about.en.html) [(10507 images on digitized microfilm)]{.hint}<a name='PLW05-Fl03'></a>
+- [Meat](i/142469/about.en.html) [(10507 images on digitized microfilm)]{.hint}<a name='PLW05-Fl'></a>
 - [Meat extract](i/142472/about.en.html) [(62 images on digitized microfilm)]{.hint}<a name='PLW05-05'></a>
 - [Meat processing machine](i/142473/about.en.html) [(49 images on digitized microfilm)]{.hint}<a name='PID08-Nm03'></a>
 - [Mechanical spring](i/142317/about.en.html) [(90 images on digitized microfilm)]{.hint}<a name='PID07.03-09'></a>
@@ -883,15 +883,16 @@ available online.
 - [Metal furniture](i/143581/about.en.html) [(99 images on digitized microfilm)]{.hint}<a name='PID04-Mo04'></a>
 - [Metal hardware](i/142275/about.en.html) [(837 images on digitized microfilm)]{.hint}<a name='PID07.03'></a>
 
-### m <a name='id_m'></a>
+#### m <a name='id_m'></a>
 
 - [metal hose](i/232020/about.en.html) [(4 images on digitized microfilm)]{.hint}<a name='PID07.00-07'></a>
 
-### M <a name='id_M'></a>
+#### M <a name='id_M'></a>
 
 - [Metal pipe](i/230926/about.en.html) [(1727 images on digitized microfilm)]{.hint}<a name='PID07.00-06'></a>
 - [Metal product](i/143569/about.en.html) [(1504 images on digitized microfilm)]{.hint}<a name='PID07.00-02'></a>
-- [Metals](i/148466/about.en.html) [(1  ware folders + 15064 images on digitized microfilm)]{.hint}<a name='PID07'></a>
+- [Metal research, metal alloys, rare metal](i/233387/about.en.html) [(143 images on digitized microfilm)]{.hint}<a name='PID07.00-20'></a>
+- [Metals](i/148466/about.en.html) [(1  ware folders + 14932 images on digitized microfilm)]{.hint}<a name='PID07'></a>
 - [Metal sheet](i/142134/about.en.html) [(1368 images on digitized microfilm)]{.hint}<a name='PID07.00-01'></a>
 - [Metal soap](i/232782/about.en.html) [(1 images on digitized microfilm)]{.hint}<a name='PID13-Pu05'></a>
 - [Methylamine](i/232126/about.en.html) [(2 images on digitized microfilm)]{.hint}<a name='PID13-Ae22'></a>
@@ -934,7 +935,7 @@ available online.
 - [Muskrat](i/142131/about.en.html) [(24 images on digitized microfilm)]{.hint}<a name='PLW05-Hf02'></a>
 - [Mustard](i/143877/about.en.html) [(63 images on digitized microfilm)]{.hint}<a name='PID20-Gw10'></a>
 
-### N <a name='id_N'></a>
+#### N <a name='id_N'></a>
 
 - [Nail](i/143601/about.en.html) [(166 images on digitized microfilm)]{.hint}<a name='PID07.03-05'></a>
 - [Naphthalene](i/143604/about.en.html) [(55 images on digitized microfilm)]{.hint}<a name='PRB02.08-04'></a>
@@ -970,7 +971,7 @@ available online.
 - [Nutrient supply](i/231709/about.en.html) [(20 images on digitized microfilm)]{.hint}<a name='PID13-Du10'></a>
 - [Nylon fiber](i/143617/about.en.html) [(637 images on digitized microfilm)]{.hint}<a name='PID19-Ku03'></a>
 
-### O <a name='id_O'></a>
+#### O <a name='id_O'></a>
 
 - [Oak wood](i/142267/about.en.html) [(66 images on digitized microfilm)]{.hint}<a name='PLW06-Hz07'></a>
 - [Oats](i/142914/about.en.html) [(435 images on digitized microfilm)]{.hint}<a name='PLW04-Gt03'></a>
@@ -1004,7 +1005,7 @@ available online.
 - [Oyster](i/142019/about.en.html) [(30  ware folders - complete unti 1949 + 44 images on digitized microfilm)]{.hint}<a name='PLW07-Mt02'></a>
 - [Ozokerite](i/142298/about.en.html) [(35 images on digitized microfilm)]{.hint}<a name='PID13-Wa03'></a>
 
-### P <a name='id_P'></a>
+#### P <a name='id_P'></a>
 
 - [Packaging machinery](i/144003/about.en.html) [(338 images on digitized microfilm)]{.hint}<a name='PID08-Vp'></a>
 - [Paint](i/142309/about.en.html) [(1432 images on digitized microfilm)]{.hint}<a name='PID13-Fl04'></a>
@@ -1110,17 +1111,17 @@ available online.
 - [Porcelain](i/143748/about.en.html) [(1216 images on digitized microfilm)]{.hint}<a name='PID23-Ke01'></a>
 - [Porphyry](i/232988/about.en.html) [(2 images on digitized microfilm)]{.hint}<a name='PID23-Na08'></a>
 - [Potassium](i/143053/about.en.html) [(55 images on digitized microfilm)]{.hint}<a name='PID13-Du03'></a>
-- [Potato](i/143076/about.en.html) [(5935 images on digitized microfilm)]{.hint}<a name='PLW04-Kf'></a>
 - [Potato](i/142290/about.en.html) [(20 images on digitized microfilm)]{.hint}<a name='PLW04-Kf03'></a>
+- [Potato](i/143076/about.en.html) [(5935 images on digitized microfilm)]{.hint}<a name='PLW04-Kf'></a>
 - [Potato cabbage](i/143075/about.en.html) [(23 images on digitized microfilm)]{.hint}<a name='PLW04-Kf04'></a>
 - [Potato machine](i/143074/about.en.html) [(30 images on digitized microfilm)]{.hint}<a name='PID08-Ld05'></a>
 - [Poultry](i/142791/about.en.html) [(2204 images on digitized microfilm)]{.hint}<a name='PLW05-Gf'></a>
 
-### p <a name='id_p'></a>
+#### p <a name='id_p'></a>
 
 - [powder explosive](i/143835/about.en.html) [(54 images on digitized microfilm)]{.hint}<a name='PID06-05'></a>
 
-### P <a name='id_P'></a>
+#### P <a name='id_P'></a>
 
 - [Precious metal](i/143568/about.en.html) [(418 images on digitized microfilm)]{.hint}<a name='PID07.01-Em'></a>
 - [Precious stone, semi-precious stone](i/142266/about.en.html) [(585 images on digitized microfilm)]{.hint}<a name='PID23-Ed'></a>
@@ -1149,13 +1150,13 @@ available online.
 - [Pyridine](i/231680/about.en.html) [(8 images on digitized microfilm)]{.hint}<a name='PID13-Ko08'></a>
 - [Pyrites](i/143860/about.en.html) [(324 images on digitized microfilm)]{.hint}<a name='PID23-Mi13'></a>
 
-### Q <a name='id_Q'></a>
+#### Q <a name='id_Q'></a>
 
 - [Quartz](i/230925/about.en.html) [(103 images on digitized microfilm)]{.hint}<a name='PID23-Mi17'></a>
 - [Quebracho tree](i/143758/about.en.html) [(281 images on digitized microfilm)]{.hint}<a name='PLW06-Hz15'></a>
 - [Quinoa](i/143760/about.en.html) [(16 images on digitized microfilm)]{.hint}<a name='PLW04-Gt05'></a>
 
-### R <a name='id_R'></a>
+#### R <a name='id_R'></a>
 
 - [Rabbit](i/143063/about.en.html) [(329 images on digitized microfilm)]{.hint}<a name='PLW05-07'></a>
 - [Radar](i/231720/about.en.html) [(195 images on digitized microfilm)]{.hint}<a name='PID10-Mt15'></a>
@@ -1213,7 +1214,7 @@ available online.
 - [Rose oil](i/143790/about.en.html) [(259 images on digitized microfilm)]{.hint}<a name='PID13-Ar06'></a>
 - [Rosewood oil](i/143789/about.en.html) [(28 images on digitized microfilm)]{.hint}<a name='PID13-Ar05'></a>
 - [Rotenone](i/232771/about.en.html) [(7 images on digitized microfilm)]{.hint}<a name='PID13-Pe04'></a>
-- [Rubber](i/143085/about.en.html) [(11600 images on digitized microfilm)]{.hint}<a name='PLW06-Fp14'></a>
+- [Rubber](i/143085/about.en.html) [(11601 images on digitized microfilm)]{.hint}<a name='PLW06-Fp14'></a>
 - [Rubber chemical](i/232286/about.en.html) [(17 images on digitized microfilm)]{.hint}<a name='PID13.03-02'></a>
 - [Rubber goods](i/143096/about.en.html) [(1270 images on digitized microfilm)]{.hint}<a name='PID15-Ka'></a>
 - [Rubber heel, rubber sole](i/143086/about.en.html) [(37 images on digitized microfilm)]{.hint}<a name='PID15-Ka03'></a>
@@ -1229,7 +1230,7 @@ available online.
 - [Rust inhibitor](i/143793/about.en.html) [(291 images on digitized microfilm)]{.hint}<a name='PID13-Fl10'></a>
 - [Rye](i/143787/about.en.html) [(1006 images on digitized microfilm)]{.hint}<a name='PLW04-Gt06'></a>
 
-### S <a name='id_S'></a>
+#### S <a name='id_S'></a>
 
 - [Sable](i/144076/about.en.html) [(16 images on digitized microfilm)]{.hint}<a name='PLW05-27'></a>
 - [Safe](i/142794/about.en.html) [(64 images on digitized microfilm)]{.hint}<a name='PID04-Si02'></a>
@@ -1258,11 +1259,11 @@ available online.
 - [Scaffold](i/232966/about.en.html) [(12 images on digitized microfilm)]{.hint}<a name='PID07.02-06'></a>
 - [Scandium](i/232001/about.en.html) [(3 images on digitized microfilm)]{.hint}<a name='PID07.01-22'></a>
 
-### s <a name='id_s'></a>
+#### s <a name='id_s'></a>
 
 - [scrap](i/233020/about.en.html) [(2 images on digitized microfilm)]{.hint}<a name='PRB01-11'></a>
 
-### S <a name='id_S'></a>
+#### S <a name='id_S'></a>
 
 - [Scrap metal](i/143856/about.en.html) [(3087 images on digitized microfilm)]{.hint}<a name='PRB01-06'></a>
 - [Screw, nut, rivet](i/143851/about.en.html) [(545 images on digitized microfilm)]{.hint}<a name='PID07.03-02'></a>
@@ -1272,8 +1273,8 @@ available online.
 - [Sea moss](i/231332/about.en.html) [(3 images on digitized microfilm)]{.hint}<a name='PLW04-Mo02'></a>
 - [Seating furniture](i/143582/about.en.html) [(32 images on digitized microfilm)]{.hint}<a name='PID04-Mo05'></a>
 - [Sebacic acid](i/232766/about.en.html) [(4 images on digitized microfilm)]{.hint}<a name='PID13-Sc20'></a>
-- [Seed](i/232769/about.en.html) [(383 images on digitized microfilm)]{.hint}<a name='PLW04-02'></a>
 - [Seed](i/143800/about.en.html) [(739 images on digitized microfilm)]{.hint}<a name='PLW04-Sg'></a>
+- [Seed](i/232769/about.en.html) [(383 images on digitized microfilm)]{.hint}<a name='PLW04-02'></a>
 - [Selenium](i/143876/about.en.html) [(73 images on digitized microfilm)]{.hint}<a name='PID07.01-Hm05'></a>
 - [Semiconductor](i/231732/about.en.html) [(143 images on digitized microfilm)]{.hint}<a name='PID11-09'></a>
 - [Semolina](i/232188/about.en.html) [(3 images on digitized microfilm)]{.hint}<a name='PID20-Nm20'></a>
@@ -1381,7 +1382,7 @@ available online.
 - [Synthetic resin](i/143151/about.en.html) [(3184 images on digitized microfilm)]{.hint}<a name='PID14-Ha'></a>
 - [Synthetic rubber](i/143095/about.en.html) [(1920 images on digitized microfilm)]{.hint}<a name='PID14-01'></a>
 
-### T <a name='id_T'></a>
+#### T <a name='id_T'></a>
 
 - [Tablecloth](i/233106/about.en.html) [(5 images on digitized microfilm)]{.hint}<a name='PID19-Bz14'></a>
 - [Talc](i/143939/about.en.html) [(115 images on digitized microfilm)]{.hint}<a name='PID23-Mi14'></a>
@@ -1466,11 +1467,11 @@ available online.
 - [Typesetting machine](i/143881/about.en.html) [(33 images on digitized microfilm)]{.hint}<a name='PID08-Dr01'></a>
 - [Typewriter](i/143853/about.en.html) [(737 images on digitized microfilm)]{.hint}<a name='PID12-Bu03'></a>
 
-### t <a name='id_t'></a>
+#### t <a name='id_t'></a>
 
 - [typewriter ribbon](i/231643/about.en.html) [(7 images on digitized microfilm)]{.hint}<a name='PID04-Bm05'></a>
 
-### U <a name='id_U'></a>
+#### U <a name='id_U'></a>
 
 - [Ultramarine](i/143995/about.en.html) [(20 images on digitized microfilm)]{.hint}<a name='PID13-Fl16'></a>
 - [Ultrasound scanner](i/233061/about.en.html) [(46 images on digitized microfilm)]{.hint}<a name='PID08-Ap18'></a>
@@ -1480,10 +1481,10 @@ available online.
 - [Uranium](i/232649/about.en.html) [(1971 images on digitized microfilm)]{.hint}<a name='PID07.01-Se10'></a>
 - [Uranium pigment](i/232046/about.en.html) [(1 images on digitized microfilm)]{.hint}<a name='PID13-Fl25'></a>
 - [Urea](i/231710/about.en.html) [(57 images on digitized microfilm)]{.hint}<a name='PID13-Du11'></a>
-- [Urena fiber](i/143996/about.en.html) [(3 images on digitized microfilm)]{.hint}<a name='PID19-Ju01'></a>
-- [Urena lobata](i/232904/about.en.html) [(31 images on digitized microfilm)]{.hint}<a name='PID19-Nf29'></a>
+- [Urena fiber](i/143996/about.en.html) [(31 images on digitized microfilm)]{.hint}<a name='PID19-Ju01'></a>
+- [Urena lobata](i/232904/about.en.html) [(3 images on digitized microfilm)]{.hint}<a name='PID19-Nf29'></a>
 
-### V <a name='id_V'></a>
+#### V <a name='id_V'></a>
 
 - [Vaccine](i/142984/about.en.html) [(177 images on digitized microfilm)]{.hint}<a name='PID13.01-Bi02'></a>
 - [Vacuum cleaner](i/143906/about.en.html) [(94 images on digitized microfilm)]{.hint}<a name='PID10-Eh03'></a>
@@ -1501,11 +1502,11 @@ available online.
 - [Venison](i/144039/about.en.html) [(108 images on digitized microfilm)]{.hint}<a name='PLW05-Fl05'></a>
 - [Vermiculite](i/233000/about.en.html) [(29 images on digitized microfilm)]{.hint}<a name='PID23-Mi24'></a>
 
-### v <a name='id_v'></a>
+#### v <a name='id_v'></a>
 
 - [vetiver oil](i/232482/about.en.html) [(1 images on digitized microfilm)]{.hint}<a name='PID13-Ar15'></a>
 
-### V <a name='id_V'></a>
+#### V <a name='id_V'></a>
 
 - [Vinegar, acetic acid](i/142301/about.en.html) [(288 images on digitized microfilm)]{.hint}<a name='PID13-Sc00'></a>
 - [Vinyl polymer](i/232344/about.en.html) [(249 images on digitized microfilm)]{.hint}<a name='PID14-Ha05'></a>
@@ -1513,7 +1514,7 @@ available online.
 - [Vitamin](i/144005/about.en.html) [(308 images on digitized microfilm)]{.hint}<a name='PID13.01-Bi06'></a>
 - [Vulcanized fiber](i/144008/about.en.html) [(14 images on digitized microfilm)]{.hint}<a name='PID17-Sp06'></a>
 
-### W <a name='id_W'></a>
+#### W <a name='id_W'></a>
 
 - [Wallpaper](i/232563/about.en.html) [(86 images on digitized microfilm)]{.hint}<a name='PID17-Sp12'></a>
 - [Walnut](i/144021/about.en.html) [(254 images on digitized microfilm)]{.hint}<a name='PLW04-Nu09'></a>
@@ -1529,11 +1530,11 @@ available online.
 - [Weapon, ammunition](i/144013/about.en.html) [(768 images on digitized microfilm)]{.hint}<a name='PID07.03-Wa'></a>
 - [Weaver thistle](i/144027/about.en.html) [(4 images on digitized microfilm)]{.hint}<a name='PLW04-Tr12'></a>
 
-### w <a name='id_w'></a>
+#### w <a name='id_w'></a>
 
 - [weft-knit fabric, warp-knit fabric](i/143919/about.en.html) [(1214 images on digitized microfilm)]{.hint}<a name='PID19-Ma03'></a>
 
-### W <a name='id_W'></a>
+#### W <a name='id_W'></a>
 
 - [Weighing scale](i/230840/about.en.html) [(276 images on digitized microfilm)]{.hint}<a name='PID08-Vp01'></a>
 - [Welding apparatus, soldering apparatus, riveting apparatus](i/143866/about.en.html) [(255 images on digitized microfilm)]{.hint}<a name='PID08-Wz08'></a>
@@ -1542,7 +1543,7 @@ available online.
 - [Whale meat](i/144017/about.en.html) [(8 images on digitized microfilm)]{.hint}<a name='PLW07-Wa02'></a>
 - [Whale oil](i/144016/about.en.html) [(296 images on digitized microfilm)]{.hint}<a name='PLW07-Wa01'></a>
 - [Whaler](i/144018/about.en.html) [(50 images on digitized microfilm)]{.hint}<a name='PLW07-Wa03'></a>
-- [Wheat](i/144035/about.en.html) [(13336 images on digitized microfilm)]{.hint}<a name='PLW04-Gt08'></a>
+- [Wheat](i/144035/about.en.html) [(13323 images on digitized microfilm)]{.hint}<a name='PLW04-Gt08'></a>
 - [Whiskey](i/144037/about.en.html) [(407 images on digitized microfilm)]{.hint}<a name='PID20.03-Sp05'></a>
 - [Wicker](i/143134/about.en.html) [(82 images on digitized microfilm)]{.hint}<a name='PID16-Fl'></a>
 - [Widia](i/232003/about.en.html) [(6 images on digitized microfilm)]{.hint}<a name='PID07.01-24'></a>
@@ -1564,17 +1565,18 @@ available online.
 - [Wood saccharification](i/231961/about.en.html) [(119 images on digitized microfilm)]{.hint}<a name='PID13-Lm07'></a>
 - [Wood waste](i/232201/about.en.html) [(44 images on digitized microfilm)]{.hint}<a name='PRB01-09'></a>
 - [Wood wool](i/142970/about.en.html) [(37 images on digitized microfilm)]{.hint}<a name='PID16-02'></a>
-- [Wool](i/144042/about.en.html) [(11496 images on digitized microfilm)]{.hint}<a name='PLW05-Wo'></a>
+- [Wool](i/144043/about.en.html) [(3120 images on digitized microfilm)]{.hint}<a name='PLW05-Wo02'></a>
+- [Wool](i/144042/about.en.html) [(8376 images on digitized microfilm)]{.hint}<a name='PLW05-Wo'></a>
 - [Work of art](i/143150/about.en.html) [(485 images on digitized microfilm)]{.hint}<a name='PID04-Kg'></a>
 - [Workwear](i/231261/about.en.html) [(83 images on digitized microfilm)]{.hint}<a name='PID19-Bz11'></a>
 - [Wormseed](i/144046/about.en.html) [(27 images on digitized microfilm)]{.hint}<a name='PLW04-Oe12'></a>
 - [Woven textile](i/144028/about.en.html) [(9422 images on digitized microfilm)]{.hint}<a name='PID19-Ma04'></a>
 
-### X <a name='id_X'></a>
+#### X <a name='id_X'></a>
 
 - [X-ray, medical device](i/143786/about.en.html) [(292 images on digitized microfilm)]{.hint}<a name='PID08-Ap15'></a>
 
-### Y <a name='id_Y'></a>
+#### Y <a name='id_Y'></a>
 
 - [Yam, Taro](i/144047/about.en.html) [(58 images on digitized microfilm)]{.hint}<a name='PLW04-Tr07'></a>
 - [Yarn, twine](i/142757/about.en.html) [(870 images on digitized microfilm)]{.hint}<a name='PID19-Fa01'></a>
@@ -1582,7 +1584,7 @@ available online.
 - [Ylang-ylang tree](i/144048/about.en.html) [(19 images on digitized microfilm)]{.hint}<a name='PLW04-Oe13'></a>
 - [Yucca fiber](i/232905/about.en.html) [(5 images on digitized microfilm)]{.hint}<a name='PID19-Nf30'></a>
 
-### Z <a name='id_Z'></a>
+#### Z <a name='id_Z'></a>
 
 - [Zacaton](i/144049/about.en.html) [(17 images on digitized microfilm)]{.hint}<a name='PID19-Nf24'></a>
 - [Zapupe fiber](i/144050/about.en.html) [(34 images on digitized microfilm)]{.hint}<a name='PID19-Nf23'></a>
@@ -1591,5 +1593,5 @@ available online.
 - [Zinc paint](i/144070/about.en.html) [(199 images on digitized microfilm)]{.hint}<a name='PID13-Fl17'></a>
 - [Zipper](i/143774/about.en.html) [(90 images on digitized microfilm)]{.hint}<a name='PID19-Bz03'></a>
 - [Zirconium](i/144072/about.en.html) [(140 images on digitized microfilm)]{.hint}<a name='PID07.01-25'></a>
-- [Zoo animal (except birds)](i/143962/about.en.html) [(110 images on digitized microfilm)]{.hint}<a name='PLW05-19'></a>
+- [Zoo animal (except birds)](i/143962/about.en.html) [(126 images on digitized microfilm)]{.hint}<a name='PLW05-19'></a>
 

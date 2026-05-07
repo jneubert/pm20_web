@@ -14,7 +14,7 @@ robots: noindex,nofollow
 
 
 
-Den Bestandsangaben zufolge gibt es zu den folgenden 19487 Firmen und Institutionen Aufnahmen aus der 2. Verfilmung (1949-1960) und/oder auf Mikrofiche (1961-1980).
+Den Bestandsangaben zufolge gibt es zu den folgenden 19479 Firmen und Institutionen Aufnahmen aus der 2. Verfilmung (1949-1960) und/oder auf Mikrofiche (1961-1980).
 
 **[Mappen-Suche mit Synonymen](https://pm20-search.toolforge.org?lang=de&amp;coll=co)** (via Wikidata)
 
@@ -5697,11 +5697,9 @@ Den Bestandsangaben zufolge gibt es zu den folgenden 19487 Firmen und Institutio
 * [Edeka Hessenring GmbH (Melsungen)](0073xx/007361/about.de.html)  &#160; 
 * [Edeka Kreditgarantiegemeinschaft GmbH (Hamburg)](0567xx/056776/about.de.html)  &#160; 
 * [Edeka Minden eG](0073xx/007362/about.de.html)  &#160; 
-* [Edeka Verband Deutscher kaufmännischer Genossenschaften eV (Hamburg)](0567xx/056777/about.de.html)  &#160; 
 * [Edeka Zentrale AG (Hamburg)](0073xx/007363/about.de.html)  &#160; 
 * [Edelmann GmbH,Carl (Heidenheim)](0073xx/007368/about.de.html)  &#160; 
 * [Edelstahlwerk Witten AG](0073xx/007369/about.de.html)  &#160; 
-* [Edelstein-Porzellanfabrik AG (Küps)](0567xx/056778/about.de.html)  &#160; 
 * [Eden Fisher Holdings](0567xx/056779/about.de.html)  &#160; 
 * [Eden-Waren GmbH (Bad Soden)](0567xx/056780/about.de.html)  &#160; 
 * [Edgar Pickering (Blackburn) Ltd (Blackburn)](0567xx/056784/about.de.html)  &#160; 
@@ -5782,13 +5780,10 @@ Den Bestandsangaben zufolge gibt es zu den folgenden 19487 Firmen und Institutio
 * [Eisenmann KG (Böblingen)](0568xx/056856/about.de.html)  &#160; 
 * [Eisen-Rieg AG (Darmstadt)](0568xx/056857/about.de.html)  &#160; 
 * [Eisen- u. Metall KG Lahr &amp; Co.](0489xx/048950/about.de.html)  &#160; 
-* [Eisen- und Drahtwerke Erlau AG (Aalen)](0074xx/007446/about.de.html)  &#160; 
 * [Eisen- und Stahlwerk Pleissner GmbH (Herzberg)](0568xx/056849/about.de.html)  &#160; 
 * [Eisen u. Stahlhandel AG (Frankfurt)](0489xx/048952/about.de.html)  &#160; 
 * [Eisenwerk Brühl GmbH (Brühl)](0568xx/056858/about.de.html)  &#160; 
-* [Eisenwerke Friedr. Wilh. Düker GmbH &amp; Co KG (Karlstadt)](0568xx/056863/about.de.html)  &#160; 
 * [Eisenwerke Gaggenau G.m.b.H. (Gaggenau)](0490xx/049011/about.de.html)  &#160; 
-* [Eisenwerke Kaiserslautern](0074xx/007451/about.de.html) (1864-) &#160; 
 * [Eisenwerk Fraulautern GmbH](0568xx/056859/about.de.html)  &#160; 
 * [Eisenwerk Koch &amp; Franksen AG (Hoykenkamp)](0568xx/056860/about.de.html)  &#160; 
 * [Eisenwerk Theodor Loos GmbH (Gunzenhausen)](0568xx/056862/about.de.html)  &#160; 
@@ -5877,7 +5872,6 @@ Den Bestandsangaben zufolge gibt es zu den folgenden 19487 Firmen und Institutio
 * [Elektrizitätswerk Litzmannstadt Aktiengesellschaft](0424xx/042451/about.de.html)  &#160; 
 * [Elektrizitätswerk Minden-Ravensberg](0075xx/007509/about.de.html)  &#160; 
 * [Elektrizitätswerk Rheinau AG (Winterthur)](0569xx/056936/about.de.html)  &#160; 
-* [Elektrizitätswerk Weißenhorn AG (Weißenhorn)](0569xx/056939/about.de.html)  &#160; 
 * [Elektrizitätswerk Wesertal GmbH (Hameln)](0569xx/056940/about.de.html)  &#160; 
 * [Elektro-Apparate-Werke Berlin GmbH (Berlin)](0569xx/056944/about.de.html)  &#160; 
 * [Elektro-Chemie Ibbenbüren GmbH (Ibbenbüren)](0569xx/056945/about.de.html)  &#160; 
@@ -6190,7 +6184,6 @@ Den Bestandsangaben zufolge gibt es zu den folgenden 19487 Firmen und Institutio
 * [Etablissements V.Q. Petersen et Cie (Dakar/Senegal)](0572xx/057266/about.de.html)  &#160; 
 * [E.T. Barwick Industries Inc (Chamblee, Ga.)](0567xx/056701/about.de.html)  &#160; 
 * [Eterna AG (Grenchen/Solothurn)](0572xx/057267/about.de.html)  &#160; 
-* [Eterna Mode GmbH (Passau)](0078xx/007840/about.de.html)  &#160; 
 * [Eternit AG](0078xx/007841/about.de.html)  &#160; 
 * [Eternit-Werke Ludwig Hatschek AG (Vöcklabruk)](0572xx/057269/about.de.html)  &#160; 
 * [Ethiopian Airlines (Addis Abeba)](0391xx/039186/about.de.html)  &#160; 
@@ -15215,7 +15208,6 @@ Den Bestandsangaben zufolge gibt es zu den folgenden 19487 Firmen und Institutio
 * [Salzburger Sparkasse Bank AG (Salzburg)](0195xx/019573/about.de.html)  &#160; 
 * [Salzgitter AG Stahl und Technologie (Salzgitter)](0195xx/019575/about.de.html)  &#160; 
 * [Salzgitter Eisenhandel GmbH (Hannover)](0715xx/071542/about.de.html)  &#160; 
-* [Salzgitter Erzbergbau GmbH (Salzgitter)](0666xx/066617/about.de.html)  &#160; 
 * [Salzgitter Hüttenwerk GmbH (Salzgitter)](0666xx/066618/about.de.html)  &#160; 
 * [Salzgitter Industriebau GmbH (Salzgitter)](0666xx/066619/about.de.html)  &#160; 
 * [Salzgitter-Lummus GmbH (Wiesbaden)](0195xx/019577/about.de.html)  &#160; 

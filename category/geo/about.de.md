@@ -1,6 +1,6 @@
 ---
 title: "Mappen nach Ländersystematik"
-modified: 2025-10-04
+modified: 2026-04-27
 backlink: ../about.de.html
 backlink-title: "Mappen nach Systematik"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 # Mappen nach Ländersystematik
 
 
-Insgesamt 369 Systematikstellen, 9201 Sach-Mappen (bis 1949), 4426058 Aufnahmen zu Länder-Sach-Themen auf digitalisierten
+Insgesamt 369 Systematikstellen, 9201 Sach-Mappen (bis 1949), 4425710 Aufnahmen zu Länder-Sach-Themen auf digitalisierten
 Mikrofilmen sowie 2891 Waren-Mappen (bis
 1949).
 
@@ -55,7 +55,7 @@ ist online verfügbar.
 
 
 
-### Europa <a name='id_A'></a>
+#### Europa <a name='id_A'></a>
 
 - [A1 Europa](i/140892/about.de.html) A [(223 Sach-Mappen - bis 1949 komplett, 7 Waren-Mappen)]{.hint}<a name='A1'></a>
 - [A1a Ostseeländer](i/140894/about.de.html) C [(26 Sach-Mappen - bis 1949 komplett, 1 Waren-Mappen)]{.hint}<a name='A1a'></a>
@@ -157,7 +157,7 @@ ist online verfügbar.
 - [A60 Estland](i/141052/about.de.html) [(0 Sach-Mappen, 24 Waren-Mappen)]{.hint}<a name='A60'></a>
 - [A61 Litauen](i/141053/about.de.html) [(0 Sach-Mappen, 13 Waren-Mappen)]{.hint}<a name='A61'></a>
 
-### Asien <a name='id_B'></a>
+#### Asien <a name='id_B'></a>
 
 - [B1 Asien](i/141056/about.de.html) [(1 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='B1'></a>
 - [B3 Vorderasien, Westasien](i/141057/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B3'></a>
@@ -233,7 +233,7 @@ ist online verfügbar.
 - [B94a China (Japanisches Einflußgebiet)](i/141255/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B94a'></a>
 - [B94b Sinkiang](i/141256/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B94b'></a>
 - [B94c Autonomes Nordchina](i/141257/about.de.html) [(0 Sach-Mappen, 3 Waren-Mappen)]{.hint}<a name='B94c'></a>
-- [B95 Mandschurei](i/141258/about.de.html) [(1 Sach-Mappen, 18 Waren-Mappen)]{.hint}<a name='B95'></a>
+- [B95 Mandschurei, Mandschukuo](i/141258/about.de.html) [(1 Sach-Mappen, 18 Waren-Mappen)]{.hint}<a name='B95'></a>
 - [B96 Tibet](i/141259/about.de.html) [(27 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B96'></a>
 - [B98 Tannu-Tuwa](i/141260/about.de.html) [(2 Sach-Mappen - bis 1949 komplett, 0 Waren-Mappen)]{.hint}<a name='B98'></a>
 - [B99 Mongolei](i/141261/about.de.html) [(85 Sach-Mappen - bis 1949 komplett, 2 Waren-Mappen)]{.hint}<a name='B99'></a>
@@ -251,7 +251,7 @@ ist online verfügbar.
 - [B115 Korea](i/141276/about.de.html) [(20 Sach-Mappen, 8 Waren-Mappen)]{.hint}<a name='B115'></a>
 - [B116 Sachalin](i/141280/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='B116'></a>
 
-### Afrika <a name='id_C'></a>
+#### Afrika <a name='id_C'></a>
 
 - [C1 Afrika](i/141309/about.de.html) [(0 Sach-Mappen, 3 Waren-Mappen)]{.hint}<a name='C1'></a>
 - [C1a Sahara](i/141310/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C1a'></a>
@@ -283,7 +283,7 @@ ist online verfügbar.
 - [C35 Niger](i/141374/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='C35'></a>
 - [C36 Französisch-Guinea](i/141375/about.de.html) [(0 Sach-Mappen, 3 Waren-Mappen)]{.hint}<a name='C36'></a>
 - [C37 Elfenbeinküste, Mauretanien](i/141390/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='C37'></a>
-- [C38 Benin](i/141391/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C38'></a>
+- [C38a Dahomey](i/233600/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C38a'></a>
 - [C45 Azoren](i/141392/about.de.html) [(0 Sach-Mappen, 4 Waren-Mappen)]{.hint}<a name='C45'></a>
 - [C46 Madeira](i/141394/about.de.html) [(1 Sach-Mappen, 3 Waren-Mappen)]{.hint}<a name='C46'></a>
 - [C47 Kanarische Inseln](i/141395/about.de.html) [(1 Sach-Mappen, 4 Waren-Mappen)]{.hint}<a name='C47'></a>
@@ -342,7 +342,7 @@ ist online verfügbar.
 - [C125 Abessinien](i/141482/about.de.html) [(125 Sach-Mappen - bis 1949 komplett, 6 Waren-Mappen)]{.hint}<a name='C125'></a>
 - [C126 Eritrea](i/141483/about.de.html) [(88 Sach-Mappen - bis 1949 komplett, 3 Waren-Mappen)]{.hint}<a name='C126'></a>
 
-### Australien und Ozeanien <a name='id_D'></a>
+#### Australien und Ozeanien <a name='id_D'></a>
 
 - [D1 Australien und südpazifischer Inselraum](i/141592/about.de.html) [(3 Sach-Mappen - bis 1949 komplett, 0 Waren-Mappen)]{.hint}<a name='D1'></a>
 - [D2 Pazifischer Raum](i/141593/about.de.html) [(33 Sach-Mappen - bis 1949 komplett, 2 Waren-Mappen)]{.hint}<a name='D2'></a>
@@ -374,7 +374,7 @@ ist online verfügbar.
 - [D60 Deutsch-Samoa](i/141634/about.de.html) [(2 Sach-Mappen, 2 Waren-Mappen)]{.hint}<a name='D60'></a>
 - [D61 Amerikanisch-Samoa](i/141635/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='D61'></a>
 
-### Amerika <a name='id_E'></a>
+#### Amerika <a name='id_E'></a>
 
 - [E1 Amerika](i/141636/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='E1'></a>
 - [E2 Nordamerika](i/141637/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='E2'></a>
@@ -434,17 +434,17 @@ ist online verfügbar.
 - [E101 Niederländisch-Guayana](i/141699/about.de.html) [(60 Sach-Mappen, 8 Waren-Mappen)]{.hint}<a name='E101'></a>
 - [E102 Britisch-Guayana](i/141700/about.de.html) [(73 Sach-Mappen - bis 1949 komplett, 8 Waren-Mappen)]{.hint}<a name='E102'></a>
 
-### Polargebiete <a name='id_F'></a>
+#### Polargebiete <a name='id_F'></a>
 
 - [F1 Polargebiet](i/141701/about.de.html) [(1 Sach-Mappen - bis 1949 komplett, 0 Waren-Mappen)]{.hint}<a name='F1'></a>
 - [F10 Arktis](i/141702/about.de.html) [(23 Sach-Mappen - bis 1949 komplett, 1 Waren-Mappen)]{.hint}<a name='F10'></a>
 - [F11 Antarktis](i/141703/about.de.html) [(13 Sach-Mappen - bis 1949 komplett, 1 Waren-Mappen)]{.hint}<a name='F11'></a>
 
-### Meere <a name='id_G'></a>
+#### Meere <a name='id_G'></a>
 
 - [G4e Chinesisches Meer](i/141727/about.de.html) [(1 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='G4e'></a>
 
-### Welt <a name='id_H'></a>
+#### Welt <a name='id_H'></a>
 
 - [H Welt](i/141728/about.de.html) [(20 Sach-Mappen, 67 Waren-Mappen)]{.hint}<a name='H'></a>
 

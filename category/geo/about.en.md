@@ -1,6 +1,6 @@
 ---
 title: "Folders by Country Category System"
-modified: 2025-10-04
+modified: 2026-04-27
 backlink: ../about.en.html
 backlink-title: "Folders by Category system"
 fn-stub: about
@@ -12,7 +12,7 @@ fn-stub: about
 
 
 
-In total 369 categories, 9201 subject folders (until 1949), 4426058 images from digitized microfilms about
+In total 369 categories, 9201 subject folders (until 1949), 4425710 images from digitized microfilms about
 country-subject topics, and 2891 ware folders
 (until 1949).
 
@@ -54,7 +54,7 @@ is available online.
 
 
 
-### Europe <a name='id_A'></a>
+#### Europe <a name='id_A'></a>
 
 - [A1 Europe](i/140892/about.en.html) A [(223 subject folders - complete until 1949, 7 ware folders)]{.hint}<a name='A1'></a>
 - [A1a Baltic region](i/140894/about.en.html) C [(26 subject folders - complete until 1949, 1 ware folders)]{.hint}<a name='A1a'></a>
@@ -156,7 +156,7 @@ is available online.
 - [A60 Estonia](i/141052/about.en.html) [(0 subject folders, 24 ware folders)]{.hint}<a name='A60'></a>
 - [A61 Lithuania](i/141053/about.en.html) [(0 subject folders, 13 ware folders)]{.hint}<a name='A61'></a>
 
-### Asia <a name='id_B'></a>
+#### Asia <a name='id_B'></a>
 
 - [B1 Asia](i/141056/about.en.html) [(1 subject folders, 1 ware folders)]{.hint}<a name='B1'></a>
 - [B3 Western Asia](i/141057/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B3'></a>
@@ -229,10 +229,10 @@ is available online.
 - [B91b Cambodia](i/141249/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B91b'></a>
 - [B91c Laos](i/141250/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B91c'></a>
 - [B94 China](i/141253/about.en.html) [(2 subject folders, 37 ware folders)]{.hint}<a name='B94'></a>
-- [B94a Manchukuo](i/141255/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B94a'></a>
+- [B94a Wang Jingwei regime](i/141255/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B94a'></a>
 - [B94b Xinjiang](i/141256/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B94b'></a>
 - [B94c Autonomous regions in the North of China](i/141257/about.en.html) [(0 subject folders, 3 ware folders)]{.hint}<a name='B94c'></a>
-- [B95 Manchuria](i/141258/about.en.html) [(1 subject folders, 18 ware folders)]{.hint}<a name='B95'></a>
+- [B95 Manchuria, Manchukuo](i/141258/about.en.html) [(1 subject folders, 18 ware folders)]{.hint}<a name='B95'></a>
 - [B96 Tibet](i/141259/about.en.html) [(27 subject folders, 0 ware folders)]{.hint}<a name='B96'></a>
 - [B98 Tuvan People's Republic](i/141260/about.en.html) [(2 subject folders - complete until 1949, 0 ware folders)]{.hint}<a name='B98'></a>
 - [B99 Mongolia](i/141261/about.en.html) [(85 subject folders - complete until 1949, 2 ware folders)]{.hint}<a name='B99'></a>
@@ -250,7 +250,7 @@ is available online.
 - [B115 Korea](i/141276/about.en.html) [(20 subject folders, 8 ware folders)]{.hint}<a name='B115'></a>
 - [B116 Sakhalin](i/141280/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='B116'></a>
 
-### Africa <a name='id_C'></a>
+#### Africa <a name='id_C'></a>
 
 - [C1 Africa](i/141309/about.en.html) [(0 subject folders, 3 ware folders)]{.hint}<a name='C1'></a>
 - [C1a Sahara](i/141310/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='C1a'></a>
@@ -282,7 +282,7 @@ is available online.
 - [C35 Niger](i/141374/about.en.html) [(0 subject folders, 1 ware folders)]{.hint}<a name='C35'></a>
 - [C36 French Guinea](i/141375/about.en.html) [(0 subject folders, 3 ware folders)]{.hint}<a name='C36'></a>
 - [C37 Cote d'Ivoire, Mauritania](i/141390/about.en.html) [(0 subject folders, 1 ware folders)]{.hint}<a name='C37'></a>
-- [C38 Benin](i/141391/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='C38'></a>
+- [C38a French Dahomey](i/233600/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='C38a'></a>
 - [C45 Azores](i/141392/about.en.html) [(0 subject folders, 4 ware folders)]{.hint}<a name='C45'></a>
 - [C46 Madeira](i/141394/about.en.html) [(1 subject folders, 3 ware folders)]{.hint}<a name='C46'></a>
 - [C47 Canary Islands](i/141395/about.en.html) [(1 subject folders, 4 ware folders)]{.hint}<a name='C47'></a>
@@ -341,7 +341,7 @@ is available online.
 - [C125 Abyssinia](i/141482/about.en.html) [(125 subject folders - complete until 1949, 6 ware folders)]{.hint}<a name='C125'></a>
 - [C126 Eritrea](i/141483/about.en.html) [(88 subject folders - complete until 1949, 3 ware folders)]{.hint}<a name='C126'></a>
 
-### Australia and Oceania <a name='id_D'></a>
+#### Australia and Oceania <a name='id_D'></a>
 
 - [D1 Australia and Oceania](i/141592/about.en.html) [(3 subject folders - complete until 1949, 0 ware folders)]{.hint}<a name='D1'></a>
 - [D2 Pacific rim](i/141593/about.en.html) [(33 subject folders - complete until 1949, 2 ware folders)]{.hint}<a name='D2'></a>
@@ -373,7 +373,7 @@ is available online.
 - [D60 German Samoa](i/141634/about.en.html) [(2 subject folders, 2 ware folders)]{.hint}<a name='D60'></a>
 - [D61 American Samoa](i/141635/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='D61'></a>
 
-### America <a name='id_E'></a>
+#### America <a name='id_E'></a>
 
 - [E1 America](i/141636/about.en.html) [(0 subject folders, 1 ware folders)]{.hint}<a name='E1'></a>
 - [E2 North America](i/141637/about.en.html) [(0 subject folders, 1 ware folders)]{.hint}<a name='E2'></a>
@@ -433,17 +433,17 @@ is available online.
 - [E101 Surinam](i/141699/about.en.html) [(60 subject folders, 8 ware folders)]{.hint}<a name='E101'></a>
 - [E102 British Guiana](i/141700/about.en.html) [(73 subject folders - complete until 1949, 8 ware folders)]{.hint}<a name='E102'></a>
 
-### Polar regions <a name='id_F'></a>
+#### Polar regions <a name='id_F'></a>
 
 - [F1 Polar region](i/141701/about.en.html) [(1 subject folders - complete until 1949, 0 ware folders)]{.hint}<a name='F1'></a>
 - [F10 Arctic region](i/141702/about.en.html) [(23 subject folders - complete until 1949, 1 ware folders)]{.hint}<a name='F10'></a>
 - [F11 Antarctica](i/141703/about.en.html) [(13 subject folders - complete until 1949, 1 ware folders)]{.hint}<a name='F11'></a>
 
-### Seas <a name='id_G'></a>
+#### Seas <a name='id_G'></a>
 
 - [G4e China Seas](i/141727/about.en.html) [(1 subject folders, 0 ware folders)]{.hint}<a name='G4e'></a>
 
-### World <a name='id_H'></a>
+#### World <a name='id_H'></a>
 
 - [H World](i/141728/about.en.html) [(20 subject folders, 67 ware folders)]{.hint}<a name='H'></a>
 

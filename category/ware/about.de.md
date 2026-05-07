@@ -1,6 +1,6 @@
 ---
 title: "Mappen nach Warensystematik"
-modified: 2025-10-04
+modified: 2026-04-27
 backlink: ../about.de.html
 backlink-title: "Mappen nach Systematik"
 fn-stub: about
@@ -12,7 +12,7 @@ fn-stub: about
 
 
 
-Insgesamt 1400 Systematikstellen, 2891 Mappen (bis 1949) und 857342
+Insgesamt 1402 Systematikstellen, 2891 Mappen (bis 1949) und 857365
 Aufnahmen auf digitalisierten Mikrofilmen.
 
 Das Warenarchiv war primär nach Warenarten gegliedert, sekundär nach Ländern
@@ -67,7 +67,7 @@ ist online verfügbar.
 
 
 
-### A <a name='id_A'></a>
+#### A <a name='id_A'></a>
 
 - [Aal](i/141941/about.de.html) [(14  Waren-Mappen - bis 1949 komplett + 9 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Mt01'></a>
 - [Abfälle und Altmaterial](i/141942/about.de.html) [(34  Waren-Mappen - bis 1949 komplett)]{.hint}<a name='PRB01-01'></a>
@@ -134,7 +134,7 @@ ist online verfügbar.
 - [Axt, Beil, Hammer](i/141947/about.de.html) [(13  Waren-Mappen - bis 1949 komplett)]{.hint}<a name='PID07.03-Wz01'></a>
 - [Azeton](i/142022/about.de.html) [(18  Waren-Mappen - bis 1949 komplett + 9 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Ko03'></a>
 
-### B <a name='id_B'></a>
+#### B <a name='id_B'></a>
 
 - [Babassunuss](i/142023/about.de.html) [(6  Waren-Mappen - bis 1949 komplett + 14 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Nu01'></a>
 - [Bäckereimaschine](i/142027/about.de.html) [(16  Waren-Mappen - bis 1949 komplett + 41 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Nm01'></a>
@@ -249,7 +249,7 @@ ist online verfügbar.
 - [Buttersäure](i/232728/about.de.html) [(2 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Sc13'></a>
 - [Butylalkohol](i/231240/about.de.html) [(6 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Ko11'></a>
 
-### C <a name='id_C'></a>
+#### C <a name='id_C'></a>
 
 - [Cabuyafaser](i/142222/about.de.html) [(16 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf07'></a>
 - [Californium](i/232647/about.de.html) [(1 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Se08'></a>
@@ -280,7 +280,7 @@ ist online verfügbar.
 - [Crotalariafaser](i/142238/about.de.html) [(37 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf08'></a>
 - [Cyan](i/142239/about.de.html) [(84 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Sa02'></a>
 
-### D <a name='id_D'></a>
+#### D <a name='id_D'></a>
 
 - [Dachdeckung](i/231248/about.de.html) [(12 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID22-Da01'></a>
 - [Dachpappe](i/142240/about.de.html) [(196 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID22-Bs01'></a>
@@ -315,7 +315,7 @@ ist online verfügbar.
 - [Durchschlagpapier](i/231660/about.de.html) [(14 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID04-Bm08'></a>
 - [Dynamit](i/142263/about.de.html) [(24 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Zw01'></a>
 
-### E <a name='id_E'></a>
+#### E <a name='id_E'></a>
 
 - [Ebenholz](i/142264/about.de.html) [(18 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Hz06'></a>
 - [Echolot](i/142265/about.de.html) [(40 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID10-Mt01'></a>
@@ -370,7 +370,7 @@ ist online verfügbar.
 - [Eukalyptusholz](i/142302/about.de.html) [(149 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Hz10'></a>
 - [Eukalyptusöl](i/142303/about.de.html) [(20 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Ar01'></a>
 
-### F <a name='id_F'></a>
+#### F <a name='id_F'></a>
 
 - [Fahne](i/232860/about.de.html) [(3 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID04-09'></a>
 - [Fahrrad](i/142305/about.de.html) [(2333 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID09-01'></a>
@@ -428,7 +428,7 @@ ist online verfügbar.
 - [Flammfeste Textilie](i/232941/about.de.html) [(32 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Fu01'></a>
 - [Flaschenverschluss](i/142467/about.de.html) [(96 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID21-02'></a>
 - [Flechtmaterial, Flechtwaren](i/142468/about.de.html) [(81 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID16-Fl02'></a>
-- [Fleisch](i/142470/about.de.html) [(10507 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Fl03'></a>
+- [Fleisch](i/142469/about.de.html) [(10507 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Fl'></a>
 - [Fleischereimaschine](i/142473/about.de.html) [(49 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Nm03'></a>
 - [Fleischextrakt](i/142472/about.de.html) [(62 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-05'></a>
 - [Fliese](i/232288/about.de.html) [(44 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID23-07'></a>
@@ -467,7 +467,7 @@ ist online verfügbar.
 - [Futterstoff](i/232880/about.de.html) [(12 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Ma06'></a>
 - [Fütterungsapparat](i/230740/about.de.html) [(54 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Ld16'></a>
 
-### G <a name='id_G'></a>
+#### G <a name='id_G'></a>
 
 - [Galalith](i/142691/about.de.html) [(28 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID14-Ha02'></a>
 - [Galanterieware](i/142692/about.de.html) [(67 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID04-Sc05'></a>
@@ -510,7 +510,7 @@ ist online verfügbar.
 - [Geschütz](i/142841/about.de.html) [(85 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID06-02'></a>
 - [Gesenk](i/142842/about.de.html) [(112 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.03-Wz04'></a>
 - [Getränk (nichtalkoholische Getränke im Ganzen)](i/142844/about.de.html) [(962 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20.02'></a>
-- [Getreide](i/142846/about.de.html) [(17270 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gt'></a>
+- [Getreide](i/142846/about.de.html) [(17274 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gt'></a>
 - [Getreideabfall](i/232191/about.de.html) [(4 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PRB01-03'></a>
 - [Gewürz](i/142848/about.de.html) [(255 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Gw'></a>
 - [Gewürzsoße](i/232422/about.de.html) [(51 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Gw15'></a>
@@ -534,7 +534,7 @@ ist online verfügbar.
 - [Glutaminsäure](i/232744/about.de.html) [(9 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Gw16'></a>
 - [Glycol](i/231655/about.de.html) [(15 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Ko07'></a>
 - [Glyzerin](i/142876/about.de.html) [(289 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Sp03'></a>
-- [Gold](i/142877/about.de.html) [(8580 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Em01'></a>
+- [Gold](i/142877/about.de.html) [(8586 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Em01'></a>
 - [Grammophon, Schallplatte](i/142878/about.de.html) [(539 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID11-Au'></a>
 - [Granit](i/142884/about.de.html) [(120 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID23-Na03'></a>
 - [Graphit](i/142886/about.de.html) [(652 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID23-Mi03'></a>
@@ -552,7 +552,7 @@ ist online verfügbar.
 - [Gurke](i/142899/about.de.html) [(51 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gm04'></a>
 - [Guttapercha](i/142900/about.de.html) [(239 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Fp09'></a>
 
-### H <a name='id_H'></a>
+#### H <a name='id_H'></a>
 
 - [Haare, Borsten](i/142902/about.de.html) [(288 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Tp03'></a>
 - [Haarpflegemittel](i/232334/about.de.html) [(27 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Kp04'></a>
@@ -626,7 +626,7 @@ ist online verfügbar.
 - [Hydraulisches System](i/230821/about.de.html) [(3 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Pp06'></a>
 - [Hydrazin](i/231656/about.de.html) [(22 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13.02-Ks05'></a>
 
-### I <a name='id_I'></a>
+#### I <a name='id_I'></a>
 
 - [Ichthyol](i/142983/about.de.html) [(9 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13.01-02'></a>
 - [Ilmenit](i/231985/about.de.html) [(2 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID01.01-Lm08'></a>
@@ -636,16 +636,16 @@ ist online verfügbar.
 - [Industrieofen](i/232381/about.de.html) [(76 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Of01'></a>
 - [Ingwer](i/142987/about.de.html) [(103 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Gw02'></a>
 - [Insulin](i/142988/about.de.html) [(161 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13.01-Bi03'></a>
-- [Isolator, Isolierstoff, elektrischer](i/142989/about.de.html) [(528 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID10-03'></a>
+- [Isolator, Isolierstoff, elektrischer](i/142989/about.de.html) [(365 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID10-03'></a>
 - [Isolierband](i/232208/about.de.html) [(9 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID22-Bs10'></a>
 - [Isolierpapier](i/232211/about.de.html) [(5 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID17-Sp09'></a>
-- [Isolierstoff, Isolator (nicht elektrisch)](i/142990/about.de.html) [(100 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID22-Bs02'></a>
+- [Isolierstoff, Isolator (nicht elektrisch)](i/142990/about.de.html) [(263 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID22-Bs02'></a>
 - [Isooctylalkohol](i/231247/about.de.html) [(2 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Ko12'></a>
 - [Isopropylalkohol](i/231246/about.de.html) [(4 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Ko10'></a>
 - [Isotop](i/232643/about.de.html) [(375 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Se04'></a>
 - [Ixtle](i/142994/about.de.html) [(82 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf10'></a>
 
-### J <a name='id_J'></a>
+#### J <a name='id_J'></a>
 
 - [Jalousie](i/231254/about.de.html) [(9 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID22-Bs05'></a>
 - [Jod](i/142998/about.de.html) [(265 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13.01-04'></a>
@@ -653,7 +653,7 @@ ist online verfügbar.
 - [Johannisbrot](i/143001/about.de.html) [(82 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Fp18'></a>
 - [Jute](i/143004/about.de.html) [(2663 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Ju'></a>
 
-### K <a name='id_K'></a>
+#### K <a name='id_K'></a>
 
 - [Kabeljau](i/143006/about.de.html) [(542 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Mt06'></a>
 - [Kabel, Leitungsdraht](i/143005/about.de.html) [(950 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID10-Kd'></a>
@@ -708,7 +708,7 @@ ist online verfügbar.
 - [Kaugummi](i/143083/about.de.html) [(132 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Su01'></a>
 - [Kauriholz](i/143084/about.de.html) [(13 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Hz12'></a>
 - [Kautabak, Schnupftabak](i/233021/about.de.html) [(11 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20.01-Sc'></a>
-- [Kautschuk](i/143085/about.de.html) [(11600 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Fp14'></a>
+- [Kautschuk](i/143085/about.de.html) [(11601 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Fp14'></a>
 - [Kautschukabsatz, Kautschuksohle](i/143086/about.de.html) [(37 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID15-Ka03'></a>
 - [Kautschukbearbeitungsgerät](i/143087/about.de.html) [(63 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Wz14'></a>
 - [Kautschukfäden, elastische Gewebe, gummierte Gewebe](i/143088/about.de.html) [(33 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID15-Ka04'></a>
@@ -745,7 +745,7 @@ ist online verfügbar.
 - [Koffein](i/143117/about.de.html) [(38 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID04-Dr04'></a>
 - [Koffer](i/143118/about.de.html) [(52 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID18-02'></a>
 - [Kohl](i/143119/about.de.html) [(25  Waren-Mappen + 111 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gm08'></a>
-- [Kohle](i/143120/about.de.html) [(159  Waren-Mappen - bis 1949 komplett + 13782 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PRB02.01'></a>
+- [Kohle](i/143120/about.de.html) [(159  Waren-Mappen - bis 1949 komplett + 13780 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PRB02.01'></a>
 - [Kohlemaschinen (Gewinnung und Aufbereitung)](i/143121/about.de.html) [(19  Waren-Mappen - bis 1949 komplett)]{.hint}<a name='PID08-Bg02'></a>
 - [Kohlensäure](i/143122/about.de.html) [(32  Waren-Mappen - bis 1949 komplett + 17 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Sc06'></a>
 - [Kohlenstaub](i/218756/about.de.html) [(10  Waren-Mappen - bis 1949 komplett)]{.hint}<a name='PRB02.01-St'></a>
@@ -802,7 +802,7 @@ ist online verfügbar.
 - [Kürbis](i/143145/about.de.html) [(20 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gm09'></a>
 - [Kurzware](i/231324/about.de.html) [(8 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Bz08'></a>
 
-### L <a name='id_L'></a>
+#### L <a name='id_L'></a>
 
 - [Labmagen](i/143158/about.de.html) [(18 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Tp06'></a>
 - [Lachs](i/143159/about.de.html) [(493 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Mt09'></a>
@@ -853,7 +853,7 @@ ist online verfügbar.
 - [Luxusware](i/143522/about.de.html) [(61 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID04-03'></a>
 - [Luzerne](i/143521/about.de.html) [(344 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Hu11'></a>
 
-### M <a name='id_M'></a>
+#### M <a name='id_M'></a>
 
 - [Magnesit](i/143526/about.de.html) [(342 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID23-Mi09'></a>
 - [Magnesium](i/143528/about.de.html) [(762 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Lm06'></a>
@@ -906,11 +906,12 @@ ist online verfügbar.
 - [Messapparat, Prüfapparat, Zählapparat](i/143565/about.de.html) [(739 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID10-Mt'></a>
 - [Messer, Schere](i/143563/about.de.html) [(792 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.03-Sd01'></a>
 - [Messing](i/143564/about.de.html) [(181 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-12'></a>
-- [Metall](i/148466/about.de.html) [(1  Waren-Mappen + 15064 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07'></a>
+- [Metall](i/148466/about.de.html) [(1  Waren-Mappen + 14932 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07'></a>
 - [Metall, Edel-](i/143568/about.de.html) [(418 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Em'></a>
 - [Metallerzeugnis](i/143569/about.de.html) [(1504 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.00-02'></a>
 - [Metallflasche, Metallfass, Metalltrommel](i/143570/about.de.html) [(181 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.00-05'></a>
 - [Metallfolie, Metallkapsel, Tube](i/143571/about.de.html) [(85 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.00-03'></a>
+- [Metallforschung, Metalllegierung, Seltenes Metall](i/233387/about.de.html) [(143 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.00-20'></a>
 - [Metall, Leicht-](i/143572/about.de.html) [(1  Waren-Mappen + 302 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Lm'></a>
 - [Metallschlauch](i/232020/about.de.html) [(4 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.00-07'></a>
 - [Metallseife](i/232782/about.de.html) [(1 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Pu05'></a>
@@ -951,7 +952,7 @@ ist online verfügbar.
 - [Muskatnuss](i/143594/about.de.html) [(67 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Gw05'></a>
 - [Muskelkraftflugzeug](i/143595/about.de.html) [(28 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID09.01-Lf05'></a>
 
-### N <a name='id_N'></a>
+#### N <a name='id_N'></a>
 
 - [Nachrichtenapparat, Signalapparat](i/143598/about.de.html) [(149 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID11'></a>
 - [Nadel](i/143600/about.de.html) [(177 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.03-04'></a>
@@ -982,7 +983,7 @@ ist online verfügbar.
 - [Nutria](i/143616/about.de.html) [(98 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-10'></a>
 - [Nylonfaser](i/143617/about.de.html) [(637 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Ku03'></a>
 
-### O <a name='id_O'></a>
+#### O <a name='id_O'></a>
 
 - [Oberflächentechnisches Gerät](i/230702/about.de.html) [(45 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Ap06'></a>
 - [Oberleitungsbus](i/232341/about.de.html) [(6 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID09.02-Nf04'></a>
@@ -1007,7 +1008,7 @@ ist online verfügbar.
 - [Osmium, Osmiridium, Iridium](i/143635/about.de.html) [(21 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Pl01'></a>
 - [Oxalsäure](i/232762/about.de.html) [(4 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Sc18'></a>
 
-### P <a name='id_P'></a>
+#### P <a name='id_P'></a>
 
 - [Palladium](i/143636/about.de.html) [(13 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Pl02'></a>
 - [Palmfaser](i/232903/about.de.html) [(4 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf28'></a>
@@ -1097,7 +1098,7 @@ ist online verfügbar.
 - [Pyrethrum](i/143757/about.de.html) [(203 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Pe02'></a>
 - [Pyridin](i/231680/about.de.html) [(8 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Ko08'></a>
 
-### Q <a name='id_Q'></a>
+#### Q <a name='id_Q'></a>
 
 - [Quappe](i/233183/about.de.html) [(3 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Sw09'></a>
 - [Quarz](i/230925/about.de.html) [(103 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID23-Mi17'></a>
@@ -1105,7 +1106,7 @@ ist online verfügbar.
 - [Quecksilber](i/143759/about.de.html) [(1042 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-09'></a>
 - [Quinoa](i/143760/about.de.html) [(16 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gt05'></a>
 
-### R <a name='id_R'></a>
+#### R <a name='id_R'></a>
 
 - [Radargerät](i/231720/about.de.html) [(195 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID10-Mt15'></a>
 - [Radiergummi](i/231645/about.de.html) [(2 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID04-Bm07'></a>
@@ -1164,7 +1165,7 @@ ist online verfügbar.
 - [Rum](i/143799/about.de.html) [(258 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20.03-Sp04'></a>
 - [Rundfunkgerät](i/142487/about.de.html) [(2872 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID11-03'></a>
 
-### S <a name='id_S'></a>
+#### S <a name='id_S'></a>
 
 - [Saat, Sämerei](i/143800/about.de.html) [(739 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Sg'></a>
 - [Sack (außer Papiersack)](i/143801/about.de.html) [(619 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID21-06'></a>
@@ -1330,7 +1331,7 @@ ist online verfügbar.
 - [Süßstoff](i/143927/about.de.html) [(285 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Zk02'></a>
 - [Süßware](i/143930/about.de.html) [(582 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-Su'></a>
 
-### T <a name='id_T'></a>
+#### T <a name='id_T'></a>
 
 - [Tabak](i/143934/about.de.html) [(15279 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-06'></a>
 - [Tabakabfall](i/233020/about.de.html) [(2 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PRB01-11'></a>
@@ -1376,7 +1377,7 @@ ist online verfügbar.
 - [Thunfisch](i/143961/about.de.html) [(288 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Mt18'></a>
 - [Tiefkühlkost](i/232326/about.de.html) [(144 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20-09'></a>
 - [Tierisches Erzeugnis](i/143963/about.de.html) [(192 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-20'></a>
-- [Tier, lebendes wildes (Käfigtier, außer Vogel)](i/143962/about.de.html) [(110 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-19'></a>
+- [Tier, lebendes wildes (Käfigtier, außer Vogel)](i/143962/about.de.html) [(126 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-19'></a>
 - [Tinte](i/143964/about.de.html) [(70 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Fl15'></a>
 - [Tischtuch](i/233106/about.de.html) [(5 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Bz14'></a>
 - [Titan](i/143965/about.de.html) [(553 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Lm05'></a>
@@ -1409,7 +1410,7 @@ ist online verfügbar.
 - [Tweed](i/232940/about.de.html) [(2 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Ma13'></a>
 - [Übersetzungsmaschine](i/232168/about.de.html) [(21 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID12-Bu06'></a>
 
-### U <a name='id_U'></a>
+#### U <a name='id_U'></a>
 
 - [Uhr](i/143994/about.de.html) [(2063 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID12-Ur'></a>
 - [Ultramarin](i/143995/about.de.html) [(20 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Fl16'></a>
@@ -1418,10 +1419,10 @@ ist online verfügbar.
 - [Untertagevergasung](i/231340/about.de.html) [(71 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PRB02.01.02'></a>
 - [Uran](i/232649/about.de.html) [(1971 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-Se10'></a>
 - [Uranfarbe](i/232046/about.de.html) [(1 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Fl25'></a>
-- [Urenafaser](i/232904/about.de.html) [(31 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf29'></a>
-- [Urenafaser](i/143996/about.de.html) [(3 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Ju01'></a>
+- [Urenafaser](i/143996/about.de.html) [(31 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Ju01'></a>
+- [Urenafaser](i/232904/about.de.html) [(3 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf29'></a>
 
-### V <a name='id_V'></a>
+#### V <a name='id_V'></a>
 
 - [Valonea](i/143997/about.de.html) [(72 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW06-Fp23'></a>
 - [Vanadium](i/143998/about.de.html) [(213 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-16'></a>
@@ -1443,7 +1444,7 @@ ist online verfügbar.
 - [Vogelnest](i/144007/about.de.html) [(7 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-25'></a>
 - [Vulkanfiber](i/144008/about.de.html) [(14 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID17-Sp06'></a>
 
-### W <a name='id_W'></a>
+#### W <a name='id_W'></a>
 
 - [Waage](i/230840/about.de.html) [(276 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Vp01'></a>
 - [Wachs](i/144010/about.de.html) [(103 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Wa'></a>
@@ -1474,7 +1475,7 @@ ist online verfügbar.
 - [Weintraube](i/144033/about.de.html) [(1163 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Ob15'></a>
 - [Weißblech](i/144034/about.de.html) [(872 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.02-03'></a>
 - [Weißfisch](i/232083/about.de.html) [(10 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Sw05'></a>
-- [Weizen](i/144035/about.de.html) [(13336 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gt08'></a>
+- [Weizen](i/144035/about.de.html) [(13323 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Gt08'></a>
 - [Wels](i/233188/about.de.html) [(3 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Sw08'></a>
 - [Werkzeugmaschine](i/144036/about.de.html) [(2831 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Wz'></a>
 - [Whisky](i/144037/about.de.html) [(407 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID20.03-Sp05'></a>
@@ -1484,18 +1485,19 @@ ist online verfügbar.
 - [Windkraftanlage](i/144040/about.de.html) [(32 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID08-Mo11'></a>
 - [Wismut](i/144041/about.de.html) [(121 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-17'></a>
 - [Wolfram](i/230945/about.de.html) [(1124 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID07.01-20'></a>
-- [Wolle](i/144042/about.de.html) [(11496 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Wo'></a>
+- [Wolle](i/144043/about.de.html) [(3120 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Wo02'></a>
+- [Wolle](i/144042/about.de.html) [(8376 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Wo'></a>
 - [Wollfett](i/232520/about.de.html) [(22 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW05-Wo04'></a>
 - [Wollhandkrabbe](i/144045/about.de.html) [(65 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW07-Mt17'></a>
 - [Wurmsamen](i/144046/about.de.html) [(27 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Oe12'></a>
 
-### Y <a name='id_Y'></a>
+#### Y <a name='id_Y'></a>
 
 - [Yams, Taro](i/144047/about.de.html) [(58 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Tr07'></a>
 - [Ylang Ylang](i/144048/about.de.html) [(19 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PLW04-Oe13'></a>
 - [Yuccafaser](i/232905/about.de.html) [(5 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf30'></a>
 
-### Z <a name='id_Z'></a>
+#### Z <a name='id_Z'></a>
 
 - [Zacaton](i/144049/about.de.html) [(17 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID19-Nf24'></a>
 - [Zahnpflegemittel](i/232337/about.de.html) [(40 Aufnahmen auf digitalisiertem Mikrofilm)]{.hint}<a name='PID13-Kp07'></a>
